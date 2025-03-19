@@ -1,11 +1,17 @@
 # bit-g10
 ## HTML
+- Comments
 - Declaración
 
 * Markup
   * Tags
     - Attributes
     - Value
+    - Generics
+    * Semantics
+      - Structure
+      - Substructure
+      - Content
 * HyperText
   - Links
 
