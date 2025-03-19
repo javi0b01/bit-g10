@@ -44,10 +44,10 @@ Hello
 + Vue
 
 1. Frontend
-  1. HTML
-  2. CSS
-  3. JavaScript
+    1. HTML
+    2. CSS
+    3. JavaScript
 2. Backend
-  - Node
-  - Express
-  - Mongo
+    - Node
+    - Express
+    - Mongo
