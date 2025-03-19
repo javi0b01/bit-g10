@@ -2,7 +2,6 @@
 ## HTML
 - Comments
 - Declaración
-
 * Markup
   * Tags
     - Attributes
@@ -14,7 +13,6 @@
       - Content
 * HyperText
   - Links
-
 * html
   * head
     - metadata

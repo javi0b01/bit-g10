@@ -14,8 +14,3 @@
   - html
   - css
   - javascript
-* Sistema de control de versiones
-  - Git
-  - GitHub
-  - Repositorio
-  - README file
