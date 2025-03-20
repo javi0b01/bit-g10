@@ -5,4 +5,5 @@
 - GitHub
 - Repositorio
 - README file
+- Markdown básico
 - Comandos básicos
