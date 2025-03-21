@@ -1,9 +1,12 @@
 # bit-g10
-## HTML
+## HTML | Hyper Text Markup Language
 * Markup
   * Tags
     - Attributes
     - Value
+    * Type
+      - Block
+      - Online
     - Generics
     * Semantics
       - Structure
@@ -32,6 +35,14 @@ Base
   </body>
 </html>
 ```
+* Links
+  - Internal (project, document)
+  - External
+```
+<a href=""></a>
+<a href="#"></a>
+<a href="http://" target="_blank" rel="noopener noreferrer"></a>
+```
 Generic Tags
 ```
 <div></div>
@@ -51,7 +62,7 @@ Semantic Tags
 <section></section>
 <article></article>
 ```
-Headings
+- Headings
 ```
 <h1></h1>
 <h2></h2>
