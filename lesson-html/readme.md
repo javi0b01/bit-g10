@@ -43,6 +43,10 @@ Base
 <a href="#"></a>
 <a href="http://" target="_blank" rel="noopener noreferrer"></a>
 ```
+Images
+```
+<img src="" alt="">
+```
 Generic Tags
 ```
 <div></div>
@@ -74,4 +78,10 @@ Semantic Tags
 - Paragraph
 ```
 <p></p>
+```
+* Lists
+  - Ordered
+  - Unordered
+  - Definition
+```
 ```
