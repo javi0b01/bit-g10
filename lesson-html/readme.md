@@ -4,6 +4,8 @@
   * Tags
     - Attributes
     - Value
+    - Open and Close
+    - Self Closing
     * Type
       - Block
       - Online
@@ -26,7 +28,7 @@ Declaration
 Base
 ```
 <!DOCTYPE html>
-  <html>
+<html>
   <head>
     <!-- Document metadata -->
   </head>
@@ -42,10 +44,6 @@ Base
 <a href=""></a>
 <a href="#"></a>
 <a href="http://" target="_blank" rel="noopener noreferrer"></a>
-```
-Images
-```
-<img src="" alt="">
 ```
 Generic Tags
 ```
@@ -84,4 +82,38 @@ Semantic Tags
   - Unordered
   - Definition
 ```
+<ol>
+  <li></li>
+</ol>
+<ul>
+  <li></li>
+</ul>
+<dl>
+  <dt></dt>
+  <dd></dd>
+</dl>
+```
+Table
+```
+<table></table>
+```
+Image
+```
+<img src="" alt="">
+```
+Video
+```
+<video src="" controls></video>
+```
+Audio
+```
+<audio src="" controls></audio>
+```
+Frame
+```
+<iframe></iframe>
+```
+Forms
+```
+<form></form>
 ```
