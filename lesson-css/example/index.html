@@ -1,23 +1,48 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
     <title>CSS</title>
-</head>
-<body>
+    <style>
+      .text-green {
+        color: green;
+      }
+    </style>
+  </head>
+  <body>
     <h1>CSS</h1>
-    <hr>
+    <hr />
     <section>
-        <h2>Box Model</h2>
-        <div>DIV 1 CONTENT</div>
-        <div>DIV 2 CONTENT</div>
+      <h2>Box Model</h2>
+      <div class="box-blue">content</div>
+      <div class="box-red">
+        <div class="box-green"></div>
+      </div>
     </section>
     <section>
-        <div class=" parent">
-            <div class=" child"></div>
-        </div>
+      <h2>Types</h2>
+      <div>1</div>
+      <div>2</div>
+      <hr />
+      <span>1</span>
+      <span>2</span>
     </section>
-</body>
+    <section>
+      <h2>Ways to implement</h2>
+      <p style="color: purple">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam quasi
+        molestiae mollitia magnam sequi tempore! Rerum dolore illum minus iure
+        numquam amet tenetur, error ducimus ipsum facilis repudiandae, cumque
+        nobis.
+      </p>
+      <p class="text-green">
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cum nulla
+        inventore iusto molestiae sed adipisci consequatur repellat quasi
+        molestias possimus veritatis explicabo harum ratione, magni non quo fuga
+        soluta cupiditate?
+      </p>
+    </section>
+  </body>
 </html>

@@ -1,20 +1,29 @@
-/*
-div {
-    border: 2px solid blue;
-    padding: 20px;
-    margin: 20px;
-}
-*/
-
-.parent {
-    width: 300px;
-    height: 300px;
-    background-color: yellow;
+/* This is a comment in CSS */
+.box-blue {
+  width: 300px;
+  height: 300px;
+  border-width: 5px;
+  border-color: blue;
+  border-style: solid;
 }
 
-.child{
-    margin-left: 50px;
-    width: 150px;
-    height: 150px;
-    background-color: orange;
+.box-red {
+  width: 300px;
+  height: 300px;
+  border-width: 5px;
+  border-color: black;
+  border-style: solid;
+  background-color: red;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.box-green {
+  width: 150px;
+  height: 150px;
+  border-width: 5px;
+  border-color: black;
+  border-style: solid;
+  background-color: green;
+  margin-left: 20px;
 }
