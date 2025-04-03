@@ -15,7 +15,8 @@
 
 * HTML Tags
   - Block
-  - Online
+  - Inline
+  - Inline-Block
 ---
 * Ways to implement
   - Inline (Attribute)
@@ -27,9 +28,12 @@
     - tag
     - id
     - class
-  - Group
+  - Grouping
 
 * Hierarchy
+
+* Color
+
 ---
 Comments
 ```
