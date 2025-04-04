@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Borders</title>
+    <style>
+      .box {
+        width: 150px;
+        height: 150px;
+        border-color: black;
+        border-width: 5px;
+        margin-bottom: 10px;
+      }
+      .b-solid {
+        border-style: solid;
+        border-radius: 50%;
+      }
+      .b-dashed {
+        border-style: dashed;
+        border-radius: 20px;
+      }
+      .b-dotted {
+        border-style: dotted;
+        border-radius: 20px 50px;
+      }
+      .b-double {
+        border-style: double;
+        border-radius: 10% 20% 30% 40%;
+      }
+      .b-groove {
+        border-style: groove;
+        border-radius: 50% 10% 50% 10% / 10% 50% 10% 50%;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Borders</h1>
+    <hr />
+    <div class="box b-solid"></div>
+    <div class="box b-dashed"></div>
+    <div class="box b-dotted"></div>
+    <div class="box b-double"></div>
+    <div class="box b-groove"></div>
+  </body>
+</html>

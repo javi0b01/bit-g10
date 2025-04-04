@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Backgrounds</title>
+    <style>
+      .box {
+        width: 150px;
+        height: 150px;
+        border: 1px solid black;
+        margin-bottom: 10px;
+      }
+      .bg-color {
+        background-color: pink;
+      }
+      .bg-degrade-linear {
+        background-image: linear-gradient(red, blue);
+      }
+      .bg-degrade-radial {
+        background-image: radial-gradient(red, blue);
+      }
+      .bg-degrade-conic {
+        background-image: conic-gradient(red, blue);
+      }
+      .rectangle-box {
+        width: 350px;
+        height: 150px;
+        border: 2px solid black;
+        margin-bottom: 10px;
+        background-repeat: no-repeat;
+        background-color: aqua;
+      }
+      .bg-img-large {
+        background-image: url('https://images.unsplash.com/photo-1579546929662-711aa81148cf?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29sb3JmdWwlMjB3YWxscGFwZXJ8ZW58MHx8MHx8fDA%3D');
+        background-size: cover;
+      }
+      .bg-img-small {
+        background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSASmlL9UVRnDmyiCzPopD1dbvxfYNJ2PBW5Q&s');
+        background-size: contain;
+        background-position: center;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Backgrounds</h1>
+    <hr />
+    <div class="box bg-color"></div>
+    <div class="box bg-degrade-linear"></div>
+    <div class="box bg-degrade-radial"></div>
+    <div class="box bg-degrade-conic"></div>
+    <div class="rectangle-box bg-img-large"></div>
+    <div class="rectangle-box bg-img-small"></div>
+  </body>
+</html>
