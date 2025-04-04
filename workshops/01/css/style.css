@@ -1,9 +1,8 @@
-/* GLOBALS */
+/* TAGS */
 * {
   box-sizing: border-box;
 }
 
-/* GENERAL */
 html,
 body {
   height: 100%;
@@ -11,28 +10,58 @@ body {
 
 body {
   margin: 0;
-  color: green;
+  display: flex;
+  flex-direction: column;
 }
 
-h1 {
-  background-color: green;
-  color: white;
+main {
+  width: 75%;
+}
+
+aside {
+  width: 25%;
+}
+
+/* CLASSES */
+.box {
+  display: flex;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-orange {
+  color: orange;
+}
+
+/* FIRST SECTION */
+.s-first {
+  background-image: linear-gradient(#1dd9d6, white);
+  border-radius: 0 20px 0 0;
   padding: 20px;
 }
 
-h2,
-h3,
-h4,
-h5,
-h6 {
-  color: greenyellow;
+.s-first figure {
+  text-align: center;
 }
 
-th,
-td {
-  padding: 10px;
-}
-
-.photo {
+.s-first img {
   border-radius: 50%;
+}
+
+/* MENU */
+.menu {
+  display: flex;
+  justify-content: end;
+  gap: 20px;
+  text-transform: uppercase;
+}
+
+/* FOOTER */
+.footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  text-transform: capitalize;
 }
