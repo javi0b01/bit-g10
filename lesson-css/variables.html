@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSS | Variables</title>
+    <style>
+      :root {
+        --primary-color: red;
+        --secondary-color: rgb(21, 120, 178);
+        --white-color: white;
+      }
+
+      .principal {
+        color: var(--primary-color);
+      }
+
+      .auxiliar {
+        background-color: var(--secondary-color);
+        color: var(--white-color);
+      }
+    </style>
+  </head>
+  <body>
+    <h1>CSS | Variables</h1>
+    <h2>Common Properties</h2>
+    <hr />
+    <h3 class="auxiliar">Title 1</h3>
+    <p class="principal">
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla aspernatur
+      esse culpa laboriosam suscipit perspiciatis eaque architecto commodi sequi
+      dicta autem quod natus, et explicabo consequuntur temporibus id magnam
+      cumque!
+    </p>
+    <h3 class="auxiliar">Title 2</h3>
+    <p class="principal">
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium
+      voluptates repellendus at fugiat modi minima quidem, expedita a iure!
+      Autem non adipisci alias optio deserunt ipsum praesentium recusandae eaque
+      ipsam!
+    </p>
+  </body>
+</html>
