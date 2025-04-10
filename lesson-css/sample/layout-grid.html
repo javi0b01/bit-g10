@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Layout Grid</title>
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+
+      html {
+        height: 100%;
+      }
+
+      body {
+        margin: 0;
+        border: 2px solid black;
+        width: 1024px;
+        height: 512px;
+        margin-top: 100px;
+        margin-left: auto;
+        margin-right: auto;
+        display: grid;
+        grid-template-columns: 255px 255px 255px 255px;
+        grid-template-rows: auto;
+        grid-template-areas:
+          'header header header header'
+          'nav nav nav nav'
+          'main main main aside'
+          'footer footer footer footer';
+      }
+
+      header,
+      nav,
+      main,
+      aside,
+      footer {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      header {
+        grid-area: header;
+        border: 2px solid green;
+        height: 88px;
+      }
+
+      nav {
+        grid-area: nav;
+        border: 2px solid orangered;
+        height: 48px;
+      }
+
+      main,
+      aside {
+        height: 340px;
+      }
+
+      main {
+        grid-area: main;
+        border: 2px solid blue;
+      }
+
+      aside {
+        grid-area: aside;
+        border: 2px solid red;
+      }
+
+      footer {
+        grid-area: footer;
+        border: 2px solid brown;
+        height: 32px;
+      }
+    </style>
+  </head>
+  <body>
+    <header>header content</header>
+    <nav>nav content</nav>
+    <main>main content</main>
+    <aside>aside content</aside>
+    <footer>footer content</footer>
+  </body>
+</html>
