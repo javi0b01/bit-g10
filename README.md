@@ -27,3 +27,6 @@
       - Semántica
     * Crear archivo CSS externo
       - Ordenado
+      - Variables
+      - Flexbox
+      - Grid
