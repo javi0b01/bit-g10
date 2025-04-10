@@ -30,3 +30,4 @@
       - Variables
       - Flexbox
       - Grid
+      - Responsive (<768px, >=768px, >=992px)
