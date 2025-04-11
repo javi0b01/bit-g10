@@ -51,3 +51,11 @@ Hello
     - Node
     - Express
     - Mongo
+
+---
+README file
+
+* Información acerca de un proyecto
+  - Título
+  - Descripción
+  - Autor (link)
