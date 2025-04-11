@@ -1,0 +1,96 @@
+/* MOBILE FIRST */
+/* TAGS */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  margin: 0;
+}
+
+img,
+video {
+  width: 100%;
+}
+
+header {
+  border: 2px solid green;
+  background-color: green;
+}
+
+nav {
+  border: 2px solid orangered;
+  background-color: orangered;
+}
+
+main {
+  border: 2px solid blue;
+}
+
+aside {
+  border: 2px solid red;
+  display: none;
+}
+
+footer {
+  border: 2px solid purple;
+  background-color: purple;
+}
+
+/* CLASSES */
+
+/* GENERAL */
+.container-fluid {
+  width: 100%;
+}
+
+.container {
+  width: 100%;
+  padding: 1rem;
+}
+
+/* SECTIONS */
+.intro {
+  border: 1px solid aqua;
+}
+
+.iframe-container {
+  text-align: center;
+}
+
+@media screen and (min-width: 768px) {
+  /* TABLET */
+  .container {
+    width: 640px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .intro figure {
+    width: 30rem;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  /* COMPUTER */
+  .container {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  aside {
+    display: block;
+  }
+}
