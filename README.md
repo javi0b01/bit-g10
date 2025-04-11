@@ -18,16 +18,16 @@
 * DRY (Don't Repeat Yourself)
 
 ## Projects
-1. Crear un sitio web acerca de usted mismo
-    - Fecha de entrega: Lunes, 7 de Abril
-    - Crear un repositorio con el nombre: bit-website
-    * Crear el archivo README.md en la raíz del proyecto
-      - Información acerca del proyecto (Título, Descripción, Autor)
-    * Crear el archivo index.html en la raíz del proyecto
-      - Semántica
-    * Crear archivo CSS externo
-      - Ordenado
-      - Variables
-      - Flexbox
-      - Grid
-      - Responsive (<768px, >=768px, >=992px)
+1. Crear un sitio web
+  - Tema: Personal (acerca de si mismo)
+  - Fecha de entrega: Lunes, Abril 21, 2025
+  - Entrega: Nombre + Apellido + URL en canal de Discord
+  - Repositorio: "bit-website"
+  - README.md
+  - En línea
+  - HTML, más de un documento, estructura, contenido
+  - CSS, archivo externo, orden, variables, fuentes, colores
+  * Responsive
+    - 576px
+    - 768px
+    - 992px
