@@ -1,15 +1,13 @@
 # bit-g10
-Repositorio de apoyo.  Aquí quedará un registro de todos los temas vistos.
-
+Repositorio de apoyo.  
+Aquí quedará un registro de todo el contenido visto.
 ---
-
 100 Horas | 25 Sesiones: Fundamentos de programación
 
 1. Fundamentos de programación
 2. Fundamentos HTML y CSS
 3. JavaScript
 4. Bootstrap
-
 ## Semana 1
 ### Fundamentos de programación
 - Desarrollo web
@@ -23,15 +21,14 @@ Repositorio de apoyo.  Aquí quedará un registro de todos los temas vistos.
 - Páginas web
 - Sitios web
 - Aplicaciones web
-
-- HTML
-- CSS
-- JavaScript
-
-- Visual Studio Code
-- Git
-- GitHub
-
+* Tecnologías
+  - HTML
+  - CSS
+  - JavaScript
+* Herramientas
+  - Visual Studio Code
+  - Git
+  - GitHub
 ### Fundamentos de HTML
 - HTML
 - Estructura básica
@@ -39,58 +36,46 @@ Repositorio de apoyo.  Aquí quedará un registro de todos los temas vistos.
 - Genéricas
 - Semánticas
 - Accesibilidad
-
 ### Fundamentos de CSS
 - CSS
-- Regla
-- Selector
-- Propiedad
-- Valor
-- Declaración
-
+* Estilos
+  - Regla
+  - Selector
+  - Propiedad
+  - Valor
+  - Declaración
 - Modelo de caja
-
-- Estilos
-
 ### Fundamentos de Git y GitHub
 - Sistema de control de versiones
-- Git
 - Repositorio
 - Alojamiento de repositorios
-- GitHub
-
-- Instalación
-- Configuración
-- Pruebas
-
-- Comandos básicos
-
+* Herramientas
+  - Git
+  - GitHub
+  - Instalación
+  - Configuración
+  - Pruebas
+  - Básicos
 ## Semana 2
 ### HTML: Formularios y Tablas
 - Formularios
 - Tablas
-
 ### CSS: Flexbox
 - Flexbox
 - Variables
 - Fuentes
 - Iconos
-
 ### CSS: Grid
 - Grid
-
 ### CSS: Media Queries
 - Responsivo
 - Media queries
 - Mobile first
-
 ## Semana 3
 ### ...
-
+- ...
 ---
-
 - DRY (Don't Repeat Yourself)
-
 ### Proyectos Calificables
 1. Crear un sitio web
   - Tema: Personal (acerca de si mismo)
