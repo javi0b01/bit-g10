@@ -23,41 +23,49 @@ Aquí quedará un registro de todo el contenido visto en las sesiones.
 - Páginas web
 - Sitios web
 - Aplicaciones web
-* Tecnologías
+
+* Lenguajes
   - HTML
   - CSS
   - JavaScript
+
 * Herramientas
   - Visual Studio Code
   - Git
   - GitHub
 ### Fundamentos de HTML
 - HTML
-- Estructura básica
-- Etiquetas
-- Genéricas
-- Semánticas
+
+* Etiquetas
+  - Genéricas
+  - Semánticas
+  - Estructura básica
+
 - Accesibilidad
 ### Fundamentos de CSS
 - CSS
+
 * Estilos
   - Regla
   - Selector
   - Propiedad
   - Valor
   - Declaración
+
 - Modelo de caja
 ### Fundamentos de Git y GitHub
 - Sistema de control de versiones
 - Repositorio
 - Alojamiento de repositorios
+
 * Herramientas
   - Git
   - GitHub
   - Instalación
   - Configuración
   - Pruebas
-  - Básicos
+
+- Comandos básicos
 ## Semana 2
 ### HTML: Formularios y Tablas
 - Formularios
@@ -83,15 +91,17 @@ Aquí quedará un registro de todo el contenido visto en las sesiones.
 
 ### Proyectos Calificables
 1. Crear un sitio web
-  - Tema: Personal (acerca de si mismo)
-  - Fecha de entrega: Lunes, Abril 21, 2025
-  - Entrega: Nombre + Apellido + URL en canal de Discord
-  - Repositorio: "bit-website"
-  - README.md
-  - En línea
-  - HTML, más de un documento, estructura, contenido original
-  - CSS, archivo externo, orden, variables, fuentes, colores
-  * Responsive
-    - 576px
-    - 768px
-    - 992px
+
+- Tema: Personal (acerca de si mismo)
+- Fecha de entrega: Lunes, Abril 21, 2025
+- Entrega: Nombre + Apellido + URL en canal de Discord
+- Repositorio: "bit-website"
+- README.md
+- En línea (URL de acceso público)
+- HTML (más de un documento, estructura, contenido original)
+- CSS (archivo externo, orden, variables, fuentes, colores)
+
+* Responsive
+  - 576px
+  - 768px
+  - 992px
