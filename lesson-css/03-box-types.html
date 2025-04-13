@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+    <title>Box Types</title>
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+
+      div {
+        border-color: blue;
+      }
+
+      span {
+        border-color: red;
+      }
+
+      img {
+        border-color: green;
+      }
+
+      .box {
+        border-style: 2px;
+        border-style: solid;
+        width: 150px;
+        height: 150px;
+        margin: 10px;
+        padding: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Box Types</h1>
+    <hr />
+    <div class="box">div content (Block)</div>
+    <div class="box">div content (Block)</div>
+    <hr />
+    <span class="box">span content (Inline)</span>
+    <span class="box">span content (Inline)</span>
+    <hr />
+    <img class="box" src="./javi.png" alt="inline-block" />
+  </body>
+</html>

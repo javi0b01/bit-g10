@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+    <title>Box Model</title>
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+
+      .parent {
+        width: 100px;
+        height: 100px;
+        background-color: pink;
+        border-width: 1px;
+        border-style: solid;
+        border-color: red;
+      }
+
+      .child {
+        border-width: 1px;
+        border-style: dotted;
+        border-color: black;
+      }
+
+      .container {
+        width: 150px;
+        height: 150px;
+        background-color: aqua;
+        border-width: 1px;
+        border-style: solid;
+        border-color: blue;
+        margin: 20px;
+        padding: 10px;
+      }
+
+      .item {
+        width: 100px;
+        height: 100px;
+        background-color: yellow;
+        border-width: 1px;
+        border-style: solid;
+        border-color: yellowgreen;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Box Model</h1>
+    <hr />
+    <div class="parent">content</div>
+    <hr />
+    <div class="parent">
+      <div class="child">content</div>
+    </div>
+    <hr />
+    <div class="container">content</div>
+    <hr />
+    <div class="container">
+      <div class="item">😄</div>
+    </div>
+  </body>
+</html>

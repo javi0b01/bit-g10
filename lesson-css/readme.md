@@ -1,5 +1,25 @@
 # bit-g10
 ## CSS (Cascading Style Sheets)
+* Styles
+  - Rule
+  - Selector
+  - Property
+  - Value
+  - Declaration
+
+* Implement
+  - Inline (Attribute)
+  - Internal (Style Tag)
+  - External (CSS file)
+
+* Selector
+  * Simples
+    - Universal
+    - Tag
+    - Id
+    - Class
+  - Grouping
+
 * Position
   - top
   - left
@@ -13,29 +33,26 @@
     - Padding
     - Margin
 
-* HTML Tags
-  - Block
-  - Inline
-  - Inline-Block
----
-* Ways to implement
-  - Inline (Attribute)
-  - Internal (Style Tag)
-  - External (CSS file)
+* Box Types
+  * HTML Tags
+    - Block
+    - Inline
+    - Inline-Block
 
-* Selector
-  * Simples (tag, id, class)
-    - tag
-    - id
-    - class
-  - Grouping
+* Layout
+  - Flexbox
+  - Grid
 
-* Hierarchy
+* Media Queries
+  - Mobile first
+  - Desktop first
 
-* Color
+- Hierarchy
 
----
-Comments
-```
-<!-- This is a comment -->
-```
+- Backgrounds
+- Borders
+- Color
+- Flexbox
+- Fonts
+- Grid
+- Variables
