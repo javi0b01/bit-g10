@@ -1,7 +1,9 @@
 # bit-g10
 Repositorio de apoyo.  
 Aquí quedará un registro de todo el contenido visto.
+
 ---
+
 100 Horas | 25 Sesiones: Fundamentos de programación
 
 1. Fundamentos de programación
@@ -74,8 +76,11 @@ Aquí quedará un registro de todo el contenido visto.
 ## Semana 3
 ### ...
 - ...
+
 ---
+
 - DRY (Don't Repeat Yourself)
+
 ### Proyectos Calificables
 1. Crear un sitio web
   - Tema: Personal (acerca de si mismo)
