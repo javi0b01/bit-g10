@@ -1,6 +1,6 @@
 # bit-g10
 Repositorio de apoyo.  
-Aquí quedará un registro de todo el contenido visto.
+Aquí quedará un registro de todo el contenido visto en las sesiones.
 
 ---
 
