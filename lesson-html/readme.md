@@ -1,6 +1,5 @@
 # bit-g10
-HTML (Hyper Text Markup Language)
-
+## HTML (Hyper Text Markup Language)
 * Hyper text
   - Links
 * Markup
