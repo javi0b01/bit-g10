@@ -82,12 +82,30 @@ Aquí quedará un registro de todo el contenido visto en las sesiones.
 - Media queries
 - Mobile first
 ## Semana 3
-### ...
-- ...
+### Design
+- UI
+- UX
+- Figma
+- Wireframe
+## Semana 4
+### JavaScript
+- JavaScript
+- Consola del navegador
+- Imprimir mensajes en la consola del navegador
+- Variables
+- Tipos de dato primitivos
+- Operadores
 
 ---
 
 - DRY (Don't Repeat Yourself)
+
+* Revisión
+  - Cumple
+  - Cumple parcialmente
+  - No cumple
+
+---
 
 ### Proyectos Calificables
 1. Crear un sitio web
