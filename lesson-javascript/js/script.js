@@ -111,3 +111,30 @@ console.log(result);
 // PEMDAS | Paréntesis Exponentes Multiplicación División Adición Sustracción
 /* resultado = 12 / 3 + 2 * 3 - 1;
 console.log('resultado:', resultado); */
+
+// Comparasión
+miVariable1 = 'hola';
+miVariable2 = 'Hola';
+miVariable1 = true;
+miVariable2 = false;
+miVariable1 = '10';
+miVariable2 = 10;
+miVariable1 = 20;
+miVariable2 = '20';
+resultado = miVariable1 == miVariable2;
+resultado = miVariable1 === miVariable2;
+resultado = miVariable1 != miVariable2;
+resultado = miVariable1 !== miVariable2;
+resultado = miVariable1 > miVariable2;
+resultado = miVariable1 >= miVariable2;
+resultado = miVariable1 < miVariable2;
+resultado = miVariable1 <= miVariable2;
+console.log('miVariable1:', miVariable1);
+console.log('miVariable2:', miVariable2);
+console.log('resultado:', resultado);
+
+/*
+- Leer 2 números y utilizar los operadores de comparasión
+- Imprimir en consola el resultado de cada comparasión con el siguiente formato
+Ej: 10 no es igual a 5
+*/
