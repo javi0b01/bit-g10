@@ -118,6 +118,7 @@ Aquí quedará un registro de todo el contenido visto en las sesiones.
 ---
 
 ### Proyectos Calificables
+#### Git, GitHub, HTML, CSS
 1. Crear un sitio web
 
 - Tema: Personal (acerca de si mismo)
@@ -133,3 +134,22 @@ Aquí quedará un registro de todo el contenido visto en las sesiones.
   - 576px
   - 768px
   - 992px
+
+#### Git, GitHub, HTML, CSS, JavaScript
+2. Crear un sitio web
+
+- Tema: Libre
+- Fecha de entrega: Lunes, (por definir)
+- Entrega: Nombre + Apellido + URL en canal de Discord
+- Repositorio: "bit-1"
+- README.md
+- En línea (URL de acceso público)
+- HTML (más de un documento, estructura, contenido original)
+- CSS (archivo externo, orden, variables, fuentes, colores)
+- JavaScript
+- Figma
+* Responsive
+  - 576px
+  - 768px
+  - 992px
+  - 992px+
