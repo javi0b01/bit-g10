@@ -65,15 +65,33 @@ console.log(`Soy ${nombre} ${apellido} y tengo ${edad} años.`);
 */
 
 /* OPERADORES */
+// Llamado
+console.log();
 // Asignación
 let miVariable1 = 'Pepita';
 let miVariable2 = 'Pérez';
+let resultado = 'Hola';
+
+resultado += miVariable1;
+resultado += miVariable2;
+
+miVariable1 = 10;
+miVariable2 = 5;
+resultado = 3;
+
+// resultado = resultado + miVariable1;
+resultado += miVariable1;
+resultado -= miVariable1;
+resultado *= miVariable1;
+resultado /= miVariable1;
+resultado %= miVariable1;
+resultado **= miVariable1;
 
 // Concatenación
 const nombreCompleto = miVariable1 + miVariable2;
 // console.log('nombreCompleto:', nombreCompleto);
 miVariable2 = 5;
-let resultado = miVariable1 + miVariable2;
+resultado = miVariable1 + miVariable2;
 
 // Aritméticos
 miVariable1 = 10;
@@ -129,12 +147,27 @@ resultado = miVariable1 > miVariable2;
 resultado = miVariable1 >= miVariable2;
 resultado = miVariable1 < miVariable2;
 resultado = miVariable1 <= miVariable2;
-console.log('miVariable1:', miVariable1);
-console.log('miVariable2:', miVariable2);
-console.log('resultado:', resultado);
 
 /*
 - Leer 2 números y utilizar los operadores de comparasión
 - Imprimir en consola el resultado de cada comparasión con el siguiente formato
 Ej: 10 no es igual a 5
 */
+
+// Lógicos
+miVariable1 = 10;
+miVariable2 = 5;
+
+resultado = miVariable1 > miVariable2 && miVariable1 > 1;
+resultado = miVariable1 > miVariable2 && miVariable1 > 100;
+resultado = miVariable1 > 100 && miVariable1 > miVariable2;
+
+resultado = miVariable1 > miVariable2 || miVariable1 > 1;
+resultado = miVariable1 > miVariable2 || miVariable1 > 100;
+
+resultado = !true;
+resultado = !false;
+
+console.log('miVariable1:', miVariable1);
+console.log('miVariable2:', miVariable2);
+console.log('resultado:', resultado);
