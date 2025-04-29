@@ -106,6 +106,15 @@ Aquí quedará un registro de todo el contenido visto en las sesiones.
   - Lógicos
 * DOM (Document Object Model)
 
+* Bootstrap
+  - Implementación
+  - Layout
+    - Sistema de rejilla
+    - Filas
+    - Columnas
+    - Breakpoints
+    - Contenedores
+
 ---
 
 - DRY (Don't Repeat Yourself)
