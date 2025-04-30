@@ -144,7 +144,7 @@ Aquí quedará un registro de todo el contenido visto en las sesiones.
   - 768px
   - 992px
 
-#### Git, GitHub, HTML, CSS, JavaScript
+#### Git, GitHub, HTML, CSS, Bootstrap, JavaScript
 2. Crear un sitio web
 
 - Tema: Libre (Tema nuevo)
