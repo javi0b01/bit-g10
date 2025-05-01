@@ -108,12 +108,15 @@ Aquí quedará un registro de todo el contenido visto en las sesiones.
 
 * Bootstrap
   - Implementación
-  - Layout
+  * Layout
+    - Contenedores
     - Sistema de rejilla
     - Filas
     - Columnas
     - Breakpoints
-    - Contenedores
+  - Tipografía
+  - Iconos
+  - Imágenes
 
 ---
 
