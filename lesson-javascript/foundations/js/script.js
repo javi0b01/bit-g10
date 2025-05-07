@@ -27,6 +27,22 @@ console.log(nombreVariable4);
 
 // Interpolación de variables
 
+// Scope, ámbito de las variables
+/*const variableGlobal1 = 'soy variable tipo constante global';
+let variableGlobal2 = 'soy variable global con let';
+console.log(variableGlobal1);
+console.log(variableGlobal2);
+
+{
+  var variableGlobalAutomatica = 'soy variable global automática';
+  console.log(variableGlobalAutomatica);
+  const variableLocal1 = 'soy variable tipo constante local';
+  console.log(variableLocal1);
+  console.log(variableGlobal1);
+  console.log(variableGlobal2);
+}
+console.log(variableGlobalAutomatica);*/
+
 /* TIPOS DE DATO PRIMITIVOS */
 // undefined
 let miVariable;
@@ -168,6 +184,37 @@ resultado = miVariable1 > miVariable2 || miVariable1 > 100;
 resultado = !true;
 resultado = !false;
 
-console.log('miVariable1:', miVariable1);
+/* console.log('miVariable1:', miVariable1);
 console.log('miVariable2:', miVariable2);
-console.log('resultado:', resultado);
+console.log('resultado:', resultado); */
+
+/* FUNCIONES */
+function printHello() {
+  console.log('Hello!');
+}
+printHello();
+
+function printGreeting(greeting) {
+  console.log(greeting);
+}
+//printGreeting('Hi');
+
+function greetingByName(firstName, lastName) {
+  console.log('Hello, ' + firstName + ' ' + lastName + '!');
+}
+
+/*greetingByName('Pepita', 'Pérez');
+greetingByName('Fulanito', 'De Tal');
+greetingByName('Andrés', 'Perea');*/
+
+const miFuncionAnonima = function () {
+  console.log('soy una función anónima');
+};
+miFuncionAnonima();
+
+const miFuncionFlecha = () => {
+  console.log('soy una función flecha');
+};
+miFuncionFlecha();
+
+// Hoisting
