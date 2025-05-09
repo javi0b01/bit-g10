@@ -152,16 +152,25 @@ Aquí quedará un registro de todo el contenido visto en las sesiones.
 
 - Tema: Libre (Tema nuevo)
 - Fecha de entrega: Lunes, 12 de Mayo de 2025
-- Entrega: Nombre + Apellido + URL en canal de Discord
-- Repositorio: "bit-1"
-- README.md
-- En línea (GitHub pages - URL de acceso público)
-- HTML (más de un documento, estructura, contenido original)
-- CSS (archivo externo, orden, variables, fuentes, colores)
-- JavaScript (archivo externo, modo estricto)
-- Figma (Diseño web, UI, UX - Imagen en el README)
-* Responsive
-  - 576px
-  - 768px
-  - 992px
-  - 992px+
+* Entrega:
+  - Nombre Completo
+  - URL GitHub Pages
+  - URL GitHub Repositorio
+
+* Criterios de aceptación:
+  - Nombre del repositorio: "bit-1"
+  * README.md
+    - Título
+    - Descripción
+    - Autor
+    - Wireframe (Imagen en el README)
+  - Estructura de directorios y archivos (minúsculas, sin acentos, sin espacios)
+  - HTML (más de un documento, contenido original)
+  - CSS (Implementación archivo externo)
+  - Bootstrap (Implementación)
+  - JavaScript (Implementación archivo externo, modo estricto)
+  - Funcionamiento de un formulario (Evidencia de datos ingresados)
+  * Responsive
+    - 575px/576px
+    - 768px
+    - 992px>=
