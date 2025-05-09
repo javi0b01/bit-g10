@@ -122,11 +122,6 @@ Aquí quedará un registro de todo el contenido visto en las sesiones.
 
 - DRY (Don't Repeat Yourself)
 
-* Revisión
-  - Cumple (1)
-  - Cumple parcialmente (0.5)
-  - No cumple (0)
-
 ---
 
 ### Proyectos Calificables
@@ -153,9 +148,11 @@ Aquí quedará un registro de todo el contenido visto en las sesiones.
 - Tema: Libre (Tema nuevo)
 - Fecha de entrega: Lunes, 12 de Mayo de 2025
 * Entrega:
-  - Nombre Completo
-  - URL GitHub Pages
-  - URL GitHub Repositorio
+  * En canal de Discord (2-entrega-calificable)
+    - Nombre Completo
+    - URL GitHub Pages
+    - URL GitHub Repositorio
+  - Presentación de máximo de 3 minutos
 
 * Criterios de aceptación:
   - Nombre del repositorio: "bit-1"
@@ -174,3 +171,10 @@ Aquí quedará un registro de todo el contenido visto en las sesiones.
     - 575px/576px
     - 768px
     - 992px>=
+
+---
+
+* Revisión
+  - Cumple (1)
+  - Cumple parcialmente (0.5)
+  - No cumple (0)
