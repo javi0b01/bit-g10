@@ -152,7 +152,7 @@ Aquí quedará un registro de todo el contenido visto en las sesiones.
     - Nombre Completo
     - URL GitHub Pages
     - URL GitHub Repositorio
-  - Presentación de máximo de 3 minutos
+  - Entrega/Presentación del proyecto (tiempo límite: Máximo de 3 minutos)
 
 * Criterios de aceptación:
   - Nombre del repositorio: "bit-1"
