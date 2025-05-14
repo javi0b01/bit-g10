@@ -192,7 +192,7 @@ console.log('resultado:', resultado); */
 function printHello() {
   console.log('Hello!');
 }
-printHello();
+// printHello();
 
 function printGreeting(greeting) {
   console.log(greeting);
@@ -210,11 +210,58 @@ greetingByName('Andrés', 'Perea');*/
 const miFuncionAnonima = function () {
   console.log('soy una función anónima');
 };
-miFuncionAnonima();
+//miFuncionAnonima();
 
 const miFuncionFlecha = () => {
   console.log('soy una función flecha');
 };
-miFuncionFlecha();
+//miFuncionFlecha();
 
 // Hoisting
+
+/* CONTROL DE FLUJO */
+// secuencia
+/* console.log('1...');
+console.log('2...');
+console.log('3...'); */
+
+// condicionales
+miVariable = true;
+
+/* if (miVariable) {
+  console.log('si, se cumplió la condición');
+}
+
+if (miVariable) {
+  console.log('si, se cumplió la condición');
+} else {
+  console.log('no, no se cumplió la condición');
+}
+
+if (miVariable) {
+  console.log('si, se cumplió la condición 1');
+} else if (miVariable) {
+  console.log('si, se cumplió la condición 2');
+}
+
+if (miVariable) {
+  console.log('si, se cumplió la condición 1');
+} else if (miVariable) {
+  console.log('si, se cumplió la condición 2');
+} else {
+  console.log('no, no se cumplió la condición 1 ni la condición 2');
+} */
+
+miVariable = 1;
+
+/* switch (miVariable) {
+  case 1:
+    console.log('soy 1');
+    break;
+  case 2:
+    console.log('soy 2');
+    break;
+  default:
+    console.log('no se cumplió ningún caso');
+    break;
+} */
