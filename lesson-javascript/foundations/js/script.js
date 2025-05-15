@@ -265,3 +265,51 @@ miVariable = 1;
     console.log('no se cumplió ningún caso');
     break;
 } */
+
+/* Leer un nombre de usuario y una contraseña,
+- Si el usuario es "pepa" y la contraseña es "ABC123" mostrar "Bienvenida"
+- De otra manera mostrar: "Acceso denegado".
+*/
+
+/*
+INICIO
+  entrada username
+  entrada password
+  si username es "pepa"
+  si password es "ABC123"
+    mensaje: "Bienvenida"
+  de otro modo
+    mensaje: "Acceso denegado"
+  salida mensaje
+FIN
+*/
+
+function login1(username, password) {
+  if (username === 'pepa') {
+    if (password === 'ABC123') {
+      console.log('Bienvenida');
+    } else {
+      console.log('Acceso denegado');
+    }
+  } else {
+    console.log('Acceso denegado');
+  }
+}
+console.log('login1');
+login1('pepa', 'ABC123');
+login1('pepe', 'ABC123');
+login1('pepa', 'abc123');
+login1('pepe', 'abc123');
+
+function login2(username, password) {
+  if (username === 'pepa' && password === 'ABC123') {
+    console.log('Bienvenida');
+  } else {
+    console.log('Acceso denegado');
+  }
+}
+console.log('login2');
+login2('pepa', 'ABC123');
+login2('pepe', 'ABC123');
+login2('pepa', 'abc123');
+login2('pepe', 'abc123');
