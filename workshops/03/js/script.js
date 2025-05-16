@@ -21,11 +21,7 @@ function login() {
   }
   $msg.textContent = message;
 }
-
-/* function login(username, password) {
-  if (username === 'pepa' && password === 'ABC123') {
-    console.log('Bienvenida');
-  } else {
-    console.log('Acceso denegado');
-  }
-} */
+/* Leer un nombre de usuario y una contraseña,
+- Si el usuario es "pepa" y la contraseña es "ABC123" mostrar "Bienvenida"
+- De otra manera mostrar: "Acceso denegado".
+*/
