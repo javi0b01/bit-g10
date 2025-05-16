@@ -43,6 +43,14 @@ console.log(variableGlobal2);
 }
 console.log(variableGlobalAutomatica);*/
 
+/* ESTRUCTURA DE DATOS */
+// Variable
+// Arreglo, Array, Vector, Lista, Matriz
+let miArreglo = ['abc', 10, true, undefined, null];
+/* console.log(miArreglo);
+console.log(miArreglo[3]);
+console.log(miArreglo[0]); */
+
 /* TIPOS DE DATO PRIMITIVOS */
 // undefined
 let miVariable;
@@ -145,6 +153,12 @@ console.log(result);
 // PEMDAS | Paréntesis Exponentes Multiplicación División Adición Sustracción
 /* resultado = 12 / 3 + 2 * 3 - 1;
 console.log('resultado:', resultado); */
+
+miVariable = 100;
+miVariable = miVariable + 1;
+miVariable++;
+miVariable--;
+// console.log(miVariable);
 
 // Comparasión
 miVariable1 = 'hola';
@@ -266,50 +280,41 @@ miVariable = 1;
     break;
 } */
 
-/* Leer un nombre de usuario y una contraseña,
-- Si el usuario es "pepa" y la contraseña es "ABC123" mostrar "Bienvenida"
-- De otra manera mostrar: "Acceso denegado".
-*/
+// loops, ciclos, bucles, iteraciones
+miArreglo = [
+  'Sunday',
+  'Monday',
+  'Tuesday',
+  'Wednesday',
+  'Thursday',
+  'Friday',
+  'Saturday',
+];
 
-/*
-INICIO
-  entrada username
-  entrada password
-  si username es "pepa"
-  si password es "ABC123"
-    mensaje: "Bienvenida"
-  de otro modo
-    mensaje: "Acceso denegado"
-  salida mensaje
-FIN
-*/
+console.log(miArreglo);
 
-function login1(username, password) {
-  if (username === 'pepa') {
-    if (password === 'ABC123') {
-      console.log('Bienvenida');
-    } else {
-      console.log('Acceso denegado');
-    }
-  } else {
-    console.log('Acceso denegado');
-  }
+for (let index = 0; index < miArreglo.length; index++) {
+  console.log('for - ', miArreglo[index]);
 }
-console.log('login1');
-login1('pepa', 'ABC123');
-login1('pepe', 'ABC123');
-login1('pepa', 'abc123');
-login1('pepe', 'abc123');
 
-function login2(username, password) {
-  if (username === 'pepa' && password === 'ABC123') {
-    console.log('Bienvenida');
-  } else {
-    console.log('Acceso denegado');
-  }
+let i = 0;
+
+while (i < miArreglo.length) {
+  console.log('while - ', miArreglo[i]);
+  i++;
 }
-console.log('login2');
-login2('pepa', 'ABC123');
-login2('pepe', 'ABC123');
-login2('pepa', 'abc123');
-login2('pepe', 'abc123');
+
+let guard = true;
+
+while (guard === true) {
+  console.log('Guard is TRUE');
+  guard = false;
+}
+
+// Imprimir por consola los números del 1 al 100
+// Guardar los nombres de 10 paises e imprimir uno a uno por consola
+
+/* Pedir al usuario que adivine un número entre 1 y 5, dar máximo 2 intentos
+Si el usuario adivina el número mostrar "Ganaste! adivinaste el número secreto"
+Si el usuario pierde mostrar "Perdiste, tuviste 2 intentos".
+*/
