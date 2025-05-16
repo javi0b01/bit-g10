@@ -291,23 +291,23 @@ miArreglo = [
   'Saturday',
 ];
 
-console.log(miArreglo);
+//console.log(miArreglo);
 
 for (let index = 0; index < miArreglo.length; index++) {
-  console.log('for - ', miArreglo[index]);
+  //console.log('for - ', miArreglo[index]);
 }
 
 let i = 0;
 
 while (i < miArreglo.length) {
-  console.log('while - ', miArreglo[i]);
+  //console.log('while - ', miArreglo[i]);
   i++;
 }
 
 let guard = true;
 
 while (guard === true) {
-  console.log('Guard is TRUE');
+  //console.log('Guard is TRUE');
   guard = false;
 }
 
