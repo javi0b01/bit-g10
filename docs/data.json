@@ -1,179 +1,815 @@
 [
   {
-    "id": "0",
-    "student": "",
+    "code": "",
+    "student": "MOLANO ROJAS JUAN PABLO",
+    "intensity": "100 hours",
     "projects": [
       {
-        "name": "",
-        "rating": 1,
-        "ratedBy": ""
+        "name": "bit-website",
+        "score": [0]
       },
       {
-        "name": "2",
-        "date": 1,
-        "repository": 1,
-        "readme": 1,
-        "structure": 1,
-        "html": 1,
-        "css": 1,
-        "bootstrap": 1,
-        "javascript": 1,
-        "form": 1,
-        "responsive": 1,
-        "ratedBy": ""
+        "name": "bit-1",
+        "score": []
       }
     ]
   },
   {
-    "id": "1",
-    "student": "David Carrasco",
+    "code": "",
+    "student": "CONTRERAS RIBON VALENTINA ",
+    "intensity": "400 hours",
     "projects": [
       {
-        "name": "",
-        "rating": 1,
-        "ratedBy": "Javi"
+        "name": "bit-website",
+        "score": [4]
       },
       {
-        "name": "2",
-        "date": 1,
-        "repository": 1,
-        "readme": 1,
-        "structure": 1,
-        "html": 1,
-        "css": 1,
-        "bootstrap": 1,
-        "javascript": 1,
-        "form": 1,
-        "responsive": 1,
-        "ratedBy": "Javi"
+        "name": "bit-1",
+        "score": [9.5]
       }
     ]
   },
   {
-    "id": "2",
-    "student": "Andrés Perea",
+    "code": "",
+    "student": "CHARRY DIAZ DIANA VANESSA",
+    "intensity": "400 hours",
     "projects": [
       {
-        "name": "",
-        "rating": 1,
-        "ratedBy": "Javi"
+        "name": "bit-website",
+        "score": [4]
       },
       {
-        "name": "2",
-        "date": 1,
-        "repository": 1,
-        "readme": 1,
-        "structure": 1,
-        "html": 1,
-        "css": 1,
-        "bootstrap": 1,
-        "javascript": 1,
-        "form": 1,
-        "responsive": 1,
-        "ratedBy": "Javi"
+        "name": "bit-1",
+        "score": [1, 1, 0, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5]
       }
     ]
   },
   {
-    "id": "3",
-    "student": "Karen Carreño",
+    "code": "",
+    "student": "PEREA VERA ANDRES FELIPE",
+    "intensity": "400 hours",
     "projects": [
       {
-        "name": "",
-        "rating": 1,
-        "ratedBy": "Javi"
+        "name": "bit-website",
+        "score": [4]
       },
       {
-        "name": "2",
-        "date": 1,
-        "repository": 1,
-        "readme": 1,
-        "structure": 1,
-        "html": 1,
-        "css": 1,
-        "bootstrap": 1,
-        "javascript": 1,
-        "form": 1,
-        "responsive": 1,
-        "ratedBy": "Javi"
+        "name": "bit-1",
+        "score": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
       }
     ]
   },
   {
-    "id": "4",
-    "student": "Joan Cruz",
+    "code": "",
+    "student": "GONZALEZ SALAZAR SOL VIVIANA",
+    "intensity": "400 hours",
     "projects": [
       {
-        "name": "",
-        "rating": 1,
-        "ratedBy": "Javi"
+        "name": "bit-website",
+        "score": [4]
       },
       {
-        "name": "2",
-        "date": 1,
-        "repository": 1,
-        "readme": 1,
-        "structure": 1,
-        "html": 1,
-        "css": 1,
-        "bootstrap": 1,
-        "javascript": 1,
-        "form": 1,
-        "responsive": 1,
-        "ratedBy": "Javi"
+        "name": "bit-1",
+        "score": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
       }
     ]
   },
   {
-    "id": "5",
-    "student": "Jhon Ramírez",
+    "code": "",
+    "student": "LATUFF ORTEGA LUIS DAVID",
+    "intensity": "300 hours",
     "projects": [
       {
-        "name": "",
-        "rating": 1,
-        "ratedBy": "Javi"
+        "name": "bit-website",
+        "score": [0]
       },
       {
-        "name": "2",
-        "date": 1,
-        "repository": 1,
-        "readme": 1,
-        "structure": 1,
-        "html": 1,
-        "css": 1,
-        "bootstrap": 1,
-        "javascript": 1,
-        "form": 1,
-        "responsive": 1,
-        "ratedBy": "Javi"
+        "name": "bit-1",
+        "score": []
       }
     ]
   },
   {
-    "id": "6",
-    "student": "Cristian Acero",
+    "code": "",
+    "student": "JERONIMO CAMARGO EILEEN SOFIA",
+    "intensity": "400 hours",
     "projects": [
       {
-        "name": "",
-        "rating": 1,
-        "ratedBy": "Javi"
+        "name": "bit-website",
+        "score": [4.5]
       },
       {
-        "name": "2",
-        "date": 1,
-        "repository": 1,
-        "readme": 1,
-        "structure": 1,
-        "html": 1,
-        "css": 1,
-        "bootstrap": 1,
-        "javascript": 1,
-        "form": 1,
-        "responsive": 1,
-        "ratedBy": "Javi"
+        "name": "bit-1",
+        "score": [1, 1, 1, 1, 1, 1, 1, 1, 0.5, 1]
       }
     ]
   },
+  {
+    "code": "",
+    "student": "GOMEZ CARRASCAL LUIS ALFREDO",
+    "intensity": "400 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [0]
+      },
+      {
+        "name": "bit-1",
+        "score": []
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "CARRASCO CONDE DAVID MANUEL",
+    "intensity": "400 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [3.5]
+      },
+      {
+        "name": "bit-1",
+        "score": [1, 1, 0.5, 0.5, 1, 1, 1, 1, 0.5, 1]
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "CARREÑO TORRES KARENN DAYANA",
+    "intensity": "400 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [3.5]
+      },
+      {
+        "name": "bit-1",
+        "score": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "WEEB  JUAN SEBASTIAN",
+    "intensity": "400 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [3.5]
+      },
+      {
+        "name": "bit-1",
+        "score": []
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "CRUZ CORTES JOAN CAMILO",
+    "intensity": "400 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [3.5]
+      },
+      {
+        "name": "bit-1",
+        "score": [1, 1, 1, 1, 1, 1, 1, 1, 0.5, 1]
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "BOHORQUEZ ROZO ANGÉLICA ",
+    "intensity": "400 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [4.5]
+      },
+      {
+        "name": "bit-1",
+        "score": []
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "MORENO PARDO ANDREA VALENTINA",
+    "intensity": "400 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [3.5]
+      },
+      {
+        "name": "bit-1",
+        "score": []
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "BUENAVENTURA SUÁREZ SARA SHENOA",
+    "intensity": "400 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [3.5]
+      },
+      {
+        "name": "bit-1",
+        "score": []
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "RESTREPO MENDEZ SAMUEL ",
+    "intensity": "400 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [0]
+      },
+      {
+        "name": "bit-1",
+        "score": [1, 1, 1, 1, 1, 1, 0.5, 1, 1, 1]
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "BASTIDAS MENDEZ ALBERTO ANDRES",
+    "intensity": "100 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [3.5]
+      },
+      {
+        "name": "bit-1",
+        "score": []
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "WILLIAMSON SILVA NICOLAS ANDRES",
+    "intensity": "400 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [4.5]
+      },
+      {
+        "name": "bit-1",
+        "score": [1, 1, 1, 1, 1, 0.5, 1, 1, 1, 1]
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "RAMÍREZ SOLER DANIEL HUMBERTO",
+    "intensity": "400 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [3.5]
+      },
+      {
+        "name": "bit-1",
+        "score": [1, 1, 1, 1, 1, 1, 0.5, 1, 0.5, 1]
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "OSPINA RETAVIZCA SANTIAGO ",
+    "intensity": "100 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [3.5]
+      },
+      {
+        "name": "bit-1",
+        "score": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "VEGA PARRA CRISTIAN CAMILO",
+    "intensity": "400 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [4.5]
+      },
+      {
+        "name": "bit-1",
+        "score": []
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "BERMÚDEZ BUITRAGO GERMÁN ALIRIO",
+    "intensity": "400 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [5]
+      },
+      {
+        "name": "bit-1",
+        "score": []
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "BEJARANO ALCANTARA LUIS CARLOS",
+    "intensity": "400 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [3.5]
+      },
+      {
+        "name": "bit-1",
+        "score": [10]
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "ROMERO VALDERRAMA LINA YISELA",
+    "intensity": "100 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [3.5]
+      },
+      {
+        "name": "bit-1",
+        "score": []
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "WELLS RESTREPO NICHOLAS ",
+    "intensity": "400 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [4]
+      },
+      {
+        "name": "bit-1",
+        "score": [10]
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "MONTAÑEZ MARTINEZ JULIÁN LORENZO",
+    "intensity": "400 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [4]
+      },
+      {
+        "name": "bit-1",
+        "score": [9.5]
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "TAMAYO ARCILA TOBIAS ",
+    "intensity": "400 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [3.5]
+      },
+      {
+        "name": "bit-1",
+        "score": [1, 1, 1, 1, 1, 0.5, 1, 1, 1, 1]
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "RODRIGUEZ CASALLAS KRISTEL LEANNY",
+    "intensity": "400 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [0]
+      },
+      {
+        "name": "bit-1",
+        "score": []
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "CASTRO PEREZ GABRIELA ",
+    "intensity": "100 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [4.5]
+      },
+      {
+        "name": "bit-1",
+        "score": [1, 1, 1, 1, 1, 0.5, 1, 1, 1, 1]
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "ZAMUDIO MONCADA JUAN DAVID",
+    "intensity": "100 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [0]
+      },
+      {
+        "name": "bit-1",
+        "score": [9.5]
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "ANDRADE GUTIERREZ JOSE IGNACIO",
+    "intensity": "400 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [3.5]
+      },
+      {
+        "name": "bit-1",
+        "score": [9.5]
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "ACERO SIERRA CRISTIAN ARLEY",
+    "intensity": "400 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [3.5]
+      },
+      {
+        "name": "bit-1",
+        "score": [1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5]
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "CARLUCCI LOAIZA VICTOR ARMANDO",
+    "intensity": "400 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [3.5]
+      },
+      {
+        "name": "bit-1",
+        "score": [9.5]
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "MENDOZA BELTRAN HORACIO ANTONIO",
+    "intensity": "400 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [4.5]
+      },
+      {
+        "name": "bit-1",
+        "score": [10]
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "LOPEZ BASTIDAS GISSELA MARIA",
+    "intensity": "400 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [3.5]
+      },
+      {
+        "name": "bit-1",
+        "score": []
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "LOZANO POSADA BAIRON URIEL",
+    "intensity": "100 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [0]
+      },
+      {
+        "name": "bit-1",
+        "score": []
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "CUITIVA VIVAS JUAN DAVID",
+    "intensity": "400 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [3.5]
+      },
+      {
+        "name": "bit-1",
+        "score": [1, 1, 1, 1, 1, 1, 0.5, 1, 1, 1]
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "REYES MUÑOZ JOSE DAVID",
+    "intensity": "400 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [0]
+      },
+      {
+        "name": "bit-1",
+        "score": []
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "OLASCOAGA DIAZ LUIS ALBERTO",
+    "intensity": "400 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [0]
+      },
+      {
+        "name": "bit-1",
+        "score": [10]
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "RAMIREZ PIÑEROS BRAYAN ORLEY",
+    "intensity": "400 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [3.5]
+      },
+      {
+        "name": "bit-1",
+        "score": []
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "ESCORCIA MANGA LUIS CARLOS",
+    "intensity": "400 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [4]
+      },
+      {
+        "name": "bit-1",
+        "score": []
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "COLLAZOS GUTIERREZ THOMAS ",
+    "intensity": "300 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [3.5]
+      },
+      {
+        "name": "bit-1",
+        "score": []
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "MAIGUEL MONTOYA NICOLAS ",
+    "intensity": "400 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [4]
+      },
+      {
+        "name": "bit-1",
+        "score": [1, 1, 1, 1, 1, 0.5, 1, 1, 1, 1]
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "LEGUIZAMÓN RODRÍGUEZ TOMÁS DAVID",
+    "intensity": "400 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [3.5]
+      },
+      {
+        "name": "bit-1",
+        "score": [9.5]
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "BERNAL GORDILLO LUISA FERNANDA",
+    "intensity": "400 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [3.5]
+      },
+      {
+        "name": "bit-1",
+        "score": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "GUARNIZO CASCAVITA SHERLY JOHANA",
+    "intensity": "400 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [3.5]
+      },
+      {
+        "name": "bit-1",
+        "score": [1, 1, 1, 1, 1, 0.5, 1, 1, 0.5, 1]
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "VIRACACHÁ MARTINEZ JONATHAN ARISTIDES",
+    "intensity": "400 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [3.5]
+      },
+      {
+        "name": "bit-1",
+        "score": [9]
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "CONEJO MUÑOZ YESSICA ALEXANDRA",
+    "intensity": "400 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [3.5]
+      },
+      {
+        "name": "bit-1",
+        "score": [1, 1, 1, 0.5, 1, 0.5, 1, 1, 0.5, 1]
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "BELTRAN VARGAS FABIAN ANDRES",
+    "intensity": "400 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [3.5]
+      },
+      {
+        "name": "bit-1",
+        "score": []
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "PÉREZ BARRERA JADERSON GEOVANNY",
+    "intensity": "400 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [3.5]
+      },
+      {
+        "name": "bit-1",
+        "score": []
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "BECERRA BOCANEGRA EVELYN YICETH",
+    "intensity": "400 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [0]
+      },
+      {
+        "name": "bit-1",
+        "score": []
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "RAMIREZ ALFONSO JHON ALEJANDRO",
+    "intensity": "400 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [3.5]
+      },
+      {
+        "name": "bit-1",
+        "score": [1, 1, 1, 1, 1, 1, 1, 1, 0.5, 1]
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "SANCHEZ RESTREPO JUAN SEBASTIAN",
+    "intensity": "100 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [0]
+      },
+      {
+        "name": "bit-1",
+        "score": []
+      }
+    ]
+  },
+  {
+    "code": "",
+    "student": "CORREA LOZANO GERMAN CAMILO",
+    "intensity": "100 hours",
+    "projects": [
+      {
+        "name": "bit-website",
+        "score": [0]
+      },
+      {
+        "name": "bit-1",
+        "score": [9.5]
+      }
+    ]
+  },
+
   {
     "id": "7",
     "student": "Fabian Béltran",
