@@ -314,6 +314,17 @@ while (guard === true) {
 // Imprimir por consola los números del 1 al 100
 // Guardar los nombres de 10 paises e imprimir uno a uno por consola
 
+/* INTERACCIÓN */
+// Input, Entrada
+let entrada;
+//entrada = prompt();
+/* entrada = prompt('Escriba su nombre'); */
+
+// Output, Salida
+/* console.log(entrada);
+alert('Usted ingresó el nombre: ' + entrada);
+document.writeln('Usted ingresó el nombre: ' + entrada); */
+
 /* Pedir al usuario que adivine un número entre 1 y 5, dar máximo 2 intentos
 Si el usuario adivina el número mostrar "Ganaste! adivinaste el número secreto"
 Si el usuario pierde mostrar "Perdiste, tuviste 2 intentos".
