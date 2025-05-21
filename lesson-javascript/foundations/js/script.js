@@ -46,10 +46,37 @@ console.log(variableGlobalAutomatica);*/
 /* ESTRUCTURA DE DATOS */
 // Variable
 // Arreglo, Array, Vector, Lista, Matriz
-let miArreglo = ['abc', 10, true, undefined, null];
+let miArreglo = [];
+miArreglo = ['abc', 10, true, undefined, null];
 /* console.log(miArreglo);
 console.log(miArreglo[3]);
 console.log(miArreglo[0]); */
+// Objeto, Object
+let miObjeto = {};
+miObjeto = {
+  // name: value,
+};
+miObjeto = {
+  username: 'pepa',
+  password: 'ABC123',
+  greeting: () => {
+    console.log('HOLA');
+    document.writeln('hola');
+  },
+  fullName: {
+    firstName: 'Pepita',
+    surname: 'Pérez',
+  },
+  skills: ['html', 'css', 'javascript'],
+  isActive: false,
+};
+/* console.log(miObjeto);
+console.log(miObjeto.username);
+console.log(miObjeto['password']);
+miObjeto.greeting();
+console.log(miObjeto.username, miObjeto.password);
+console.log(miObjeto.username);
+console.log(miObjeto.fullName.firstName); */
 
 /* TIPOS DE DATO PRIMITIVOS */
 // undefined
@@ -231,6 +258,16 @@ const miFuncionFlecha = () => {
 };
 //miFuncionFlecha();
 
+// return, retorno de una función
+function fnRetorno() {
+  console.log('Hola, soy fnRotorno');
+  //  return undefined
+  return 'soy el valor retornado por la función';
+}
+
+/* let valorRetornado = fnRetorno();
+console.log('valorRetornado:', valorRetornado); */
+
 // Hoisting
 
 /* CONTROL DE FLUJO */
@@ -328,4 +365,27 @@ document.writeln('Usted ingresó el nombre: ' + entrada); */
 /* Pedir al usuario que adivine un número entre 1 y 5, dar máximo 2 intentos
 Si el usuario adivina el número mostrar "Ganaste! adivinaste el número secreto"
 Si el usuario pierde mostrar "Perdiste, tuviste 2 intentos".
+*/
+
+/* Crear una función
+- Recibir por parámetros nombre y apellido
+- Guardar los parámetros recibidos en un objeto
+- Imprimir nombre completo usando el objeto,
+Ejemplo de salida: Nombre completo: Pepita Pérez
+*/
+
+/* printName('Pepita', 'Pérez');
+printName('Anne', 'Doe');
+printName('Lionel', 'Messi'); */
+
+/* Crear una función
+- Recibir por parámetros nombre y apellido
+- Guardar los parámetros recibidos en un objeto
+- Retorne nombre completo usando el objeto,
+Ejemplo de salida: Nombre completo: Pepita Pérez
+*/
+
+/* Crear una función que reciba del usuario nombre y apellido
+- Imprimir en consola un objeto con los datos recibidos
+- Retornar un arreglo con los valores recibidos
 */
