@@ -115,6 +115,18 @@ console.log('Soy ' + nombre + ' ' + apellido + ' y tengo ' + edad + ' años.');
 console.log(`Soy ${nombre} ${apellido} y tengo ${edad} años.`);
 */
 
+/* CONVERSIÓN DE TIPOS */
+// Operador typeof
+// string a number
+miVariable = '10';
+miVariable = Number(miVariable);
+miVariable = '11';
+miVariable = parseFloat(miVariable);
+miVariable = '12';
+miVariable = parseInt(miVariable);
+/* console.log(miVariable);
+console.log(typeof miVariable); */
+
 /* OPERADORES */
 // Llamado
 console.log();
@@ -389,3 +401,30 @@ Ejemplo de salida: Nombre completo: Pepita Pérez
 - Imprimir en consola un objeto con los datos recibidos
 - Retornar un arreglo con los valores recibidos
 */
+
+/* Crear 4 funciones, cada una debe realizar una operación aritmética básica
+- (suma, resta, multiplicación y división)
+- Cada función debe recibir 2 números y retornar el resultado según corresponda
+- Solicitar al usuario que ingrese 2 números enteros
+- Mostrarle al usuario el resultado de cada operación
+Ej Entrada: 10 2
+Ej Salida:
+10 + 2 = 12 ...
+*/
+const sumar = (a, b) => a + b;
+const restar = (a, b) => a - b;
+const multiplicar = (a, b) => a * b;
+
+const dividir = (a, b) => {
+  if (b === 0) return 'No se permite cero';
+  else return a / b;
+};
+
+const num1 = parseInt(prompt('Ingrese el primer número:'));
+const num2 = parseInt(prompt('Ingrese el segundo número:'));
+const resultadoFinal = `${num1} + ${num2} = ${sumar(num1, num2)}<br>
+${num1} - ${num2} = ${restar(num1, num2)}<br>
+${num1} x ${num2} = ${multiplicar(num1, num2)}<br>
+${num1} / ${num2} = ${dividir(num1, num2)}`;
+
+document.writeln(resultadoFinal);
