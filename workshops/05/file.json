@@ -3,6 +3,7 @@
     "code": "1",
     "student": "MOLANO ROJAS JUAN PABLO",
     "intensity": "100 hours",
+    "usernameGithub": "",
     "projects": [
       {
         "name": "bit-website",
@@ -18,6 +19,7 @@
     "code": "2",
     "student": "CONTRERAS RIBON VALENTINA ",
     "intensity": "400 hours",
+    "usernameGithub": "ValenContreras13",
     "projects": [
       {
         "name": "bit-website",
@@ -33,6 +35,7 @@
     "code": "3",
     "student": "CHARRY DIAZ DIANA VANESSA",
     "intensity": "400 hours",
+    "usernameGithub": "DIACHA1301",
     "projects": [
       {
         "name": "bit-website",
@@ -48,6 +51,7 @@
     "code": "4",
     "student": "PEREA VERA ANDRES FELIPE",
     "intensity": "400 hours",
+    "usernameGithub": "Feliperea97",
     "projects": [
       {
         "name": "bit-website",
@@ -63,6 +67,7 @@
     "code": "5",
     "student": "GONZALEZ SALAZAR SOL VIVIANA",
     "intensity": "400 hours",
+    "usernameGithub": "Sunshine-8S",
     "projects": [
       {
         "name": "bit-website",
@@ -78,6 +83,7 @@
     "code": "6",
     "student": "LATUFF ORTEGA LUIS DAVID",
     "intensity": "300 hours",
+    "usernameGithub": "https://githut.com/llatuff",
     "projects": [
       {
         "name": "bit-website",
@@ -93,6 +99,7 @@
     "code": "7",
     "student": "JERONIMO CAMARGO EILEEN SOFIA",
     "intensity": "400 hours",
+    "usernameGithub": "souchies",
     "projects": [
       {
         "name": "bit-website",
@@ -108,6 +115,7 @@
     "code": "8",
     "student": "GOMEZ CARRASCAL LUIS ALFREDO",
     "intensity": "400 hours",
+    "usernameGithub": "LuisGomez93",
     "projects": [
       {
         "name": "bit-website",
@@ -123,6 +131,7 @@
     "code": "9",
     "student": "CARRASCO CONDE DAVID MANUEL",
     "intensity": "400 hours",
+    "usernameGithub": "dabbi20",
     "projects": [
       {
         "name": "bit-website",
@@ -138,6 +147,7 @@
     "code": "10",
     "student": "CARREÑO TORRES KARENN DAYANA",
     "intensity": "400 hours",
+    "usernameGithub": "karenntorres",
     "projects": [
       {
         "name": "bit-website",
@@ -151,8 +161,9 @@
   },
   {
     "code": "11",
-    "student": "WEEB  JUAN SEBASTIAN",
+    "student": "WEEB JUAN SEBASTIAN",
     "intensity": "400 hours",
+    "usernameGithub": "sebastianwebb5",
     "projects": [
       {
         "name": "bit-website",
@@ -168,6 +179,7 @@
     "code": "12",
     "student": "CRUZ CORTES JOAN CAMILO",
     "intensity": "400 hours",
+    "usernameGithub": "joancamilocruz",
     "projects": [
       {
         "name": "bit-website",
@@ -183,6 +195,7 @@
     "code": "13",
     "student": "BOHORQUEZ ROZO ANGÉLICA ",
     "intensity": "400 hours",
+    "usernameGithub": "AngelicaBohoRozo",
     "projects": [
       {
         "name": "bit-website",
@@ -198,6 +211,7 @@
     "code": "14",
     "student": "MORENO PARDO ANDREA VALENTINA",
     "intensity": "400 hours",
+    "usernameGithub": "valisv444",
     "projects": [
       {
         "name": "bit-website",
@@ -213,6 +227,7 @@
     "code": "15",
     "student": "BUENAVENTURA SUÁREZ SARA SHENOA",
     "intensity": "400 hours",
+    "usernameGithub": "",
     "projects": [
       {
         "name": "bit-website",
@@ -226,8 +241,9 @@
   },
   {
     "code": "16",
-    "student": "RESTREPO MENDEZ SAMUEL ",
+    "student": "RESTREPO MENDEZ SAMUEL",
     "intensity": "400 hours",
+    "usernameGithub": "Samuel-Restrepo223",
     "projects": [
       {
         "name": "bit-website",
@@ -243,6 +259,7 @@
     "code": "17",
     "student": "BASTIDAS MENDEZ ALBERTO ANDRES",
     "intensity": "100 hours",
+    "usernameGithub": "",
     "projects": [
       {
         "name": "bit-website",
@@ -258,6 +275,7 @@
     "code": "18",
     "student": "WILLIAMSON SILVA NICOLAS ANDRES",
     "intensity": "400 hours",
+    "usernameGithub": "n-williamsons",
     "projects": [
       {
         "name": "bit-website",
@@ -273,6 +291,7 @@
     "code": "19",
     "student": "RAMÍREZ SOLER DANIEL HUMBERTO",
     "intensity": "400 hours",
+    "usernameGithub": "DaniSoler09",
     "projects": [
       {
         "name": "bit-website",
@@ -288,6 +307,7 @@
     "code": "20",
     "student": "OSPINA RETAVIZCA SANTIAGO ",
     "intensity": "100 hours",
+    "usernameGithub": "",
     "projects": [
       {
         "name": "bit-website",
@@ -303,6 +323,7 @@
     "code": "21",
     "student": "VEGA PARRA CRISTIAN CAMILO",
     "intensity": "400 hours",
+    "usernameGithub": "camilovega10",
     "projects": [
       {
         "name": "bit-website",
@@ -318,6 +339,7 @@
     "code": "22",
     "student": "BERMÚDEZ BUITRAGO GERMÁN ALIRIO",
     "intensity": "400 hours",
+    "usernameGithub": "Shermangnr",
     "projects": [
       {
         "name": "bit-website",
@@ -333,6 +355,7 @@
     "code": "23",
     "student": "BEJARANO ALCANTARA LUIS CARLOS",
     "intensity": "400 hours",
+    "usernameGithub": "xluis7x",
     "projects": [
       {
         "name": "bit-website",
@@ -348,6 +371,7 @@
     "code": "24",
     "student": "ROMERO VALDERRAMA LINA YISELA",
     "intensity": "100 hours",
+    "usernameGithub": "",
     "projects": [
       {
         "name": "bit-website",
@@ -363,6 +387,7 @@
     "code": "25",
     "student": "WELLS RESTREPO NICHOLAS ",
     "intensity": "400 hours",
+    "usernameGithub": "NickWellsR",
     "projects": [
       {
         "name": "bit-website",
@@ -378,6 +403,7 @@
     "code": "26",
     "student": "MONTAÑEZ MARTINEZ JULIÁN LORENZO",
     "intensity": "400 hours",
+    "usernameGithub": "julian-montanez",
     "projects": [
       {
         "name": "bit-website",
@@ -393,6 +419,7 @@
     "code": "27",
     "student": "TAMAYO ARCILA TOBIAS ",
     "intensity": "400 hours",
+    "usernameGithub": "Tobisein1",
     "projects": [
       {
         "name": "bit-website",
@@ -408,6 +435,7 @@
     "code": "28",
     "student": "RODRIGUEZ CASALLAS KRISTEL LEANNY",
     "intensity": "400 hours",
+    "usernameGithub": "",
     "projects": [
       {
         "name": "bit-website",
@@ -423,6 +451,7 @@
     "code": "29",
     "student": "CASTRO PEREZ GABRIELA ",
     "intensity": "100 hours",
+    "usernameGithub": "",
     "projects": [
       {
         "name": "bit-website",
@@ -438,6 +467,7 @@
     "code": "30",
     "student": "ZAMUDIO MONCADA JUAN DAVID",
     "intensity": "100 hours",
+    "usernameGithub": "",
     "projects": [
       {
         "name": "bit-website",
@@ -453,6 +483,7 @@
     "code": "31",
     "student": "ANDRADE GUTIERREZ JOSE IGNACIO",
     "intensity": "400 hours",
+    "usernameGithub": "ignacioandrademec",
     "projects": [
       {
         "name": "bit-website",
@@ -468,6 +499,7 @@
     "code": "32",
     "student": "ACERO SIERRA CRISTIAN ARLEY",
     "intensity": "400 hours",
+    "usernameGithub": "Cristiaaaaan2099",
     "projects": [
       {
         "name": "bit-website",
@@ -483,6 +515,7 @@
     "code": "33",
     "student": "CARLUCCI LOAIZA VICTOR ARMANDO",
     "intensity": "400 hours",
+    "usernameGithub": "victorcarlucci",
     "projects": [
       {
         "name": "bit-website",
@@ -498,6 +531,7 @@
     "code": "34",
     "student": "MENDOZA BELTRAN HORACIO ANTONIO",
     "intensity": "400 hours",
+    "usernameGithub": "",
     "projects": [
       {
         "name": "bit-website",
@@ -513,6 +547,7 @@
     "code": "35",
     "student": "LOPEZ BASTIDAS GISSELA MARIA",
     "intensity": "400 hours",
+    "usernameGithub": "",
     "projects": [
       {
         "name": "bit-website",
@@ -528,6 +563,7 @@
     "code": "36",
     "student": "LOZANO POSADA BAIRON URIEL",
     "intensity": "100 hours",
+    "usernameGithub": "",
     "projects": [
       {
         "name": "bit-website",
@@ -543,6 +579,7 @@
     "code": "37",
     "student": "CUITIVA VIVAS JUAN DAVID",
     "intensity": "400 hours",
+    "usernameGithub": "ctivaaa",
     "projects": [
       {
         "name": "bit-website",
@@ -558,6 +595,7 @@
     "code": "38",
     "student": "REYES MUÑOZ JOSE DAVID",
     "intensity": "400 hours",
+    "usernameGithub": "",
     "projects": [
       {
         "name": "bit-website",
@@ -573,6 +611,7 @@
     "code": "39",
     "student": "OLASCOAGA DIAZ LUIS ALBERTO",
     "intensity": "400 hours",
+    "usernameGithub": "luisolascoagadiaz",
     "projects": [
       {
         "name": "bit-website",
@@ -588,6 +627,7 @@
     "code": "40",
     "student": "RAMIREZ PIÑEROS BRAYAN ORLEY",
     "intensity": "400 hours",
+    "usernameGithub": "BrayanOr",
     "projects": [
       {
         "name": "bit-website",
@@ -603,6 +643,7 @@
     "code": "41",
     "student": "ESCORCIA MANGA LUIS CARLOS",
     "intensity": "400 hours",
+    "usernameGithub": "Luchoxs",
     "projects": [
       {
         "name": "bit-website",
@@ -618,6 +659,7 @@
     "code": "42",
     "student": "COLLAZOS GUTIERREZ THOMAS ",
     "intensity": "300 hours",
+    "usernameGithub": "Thomy-skater",
     "projects": [
       {
         "name": "bit-website",
@@ -633,6 +675,7 @@
     "code": "43",
     "student": "MAIGUEL MONTOYA NICOLAS ",
     "intensity": "400 hours",
+    "usernameGithub": "nmaiguel31",
     "projects": [
       {
         "name": "bit-website",
@@ -648,6 +691,7 @@
     "code": "44",
     "student": "LEGUIZAMÓN RODRÍGUEZ TOMÁS DAVID",
     "intensity": "400 hours",
+    "usernameGithub": "TomasLeguizamon1207",
     "projects": [
       {
         "name": "bit-website",
@@ -663,6 +707,7 @@
     "code": "45",
     "student": "BERNAL GORDILLO LUISA FERNANDA",
     "intensity": "400 hours",
+    "usernameGithub": "lufernanda-05",
     "projects": [
       {
         "name": "bit-website",
@@ -678,6 +723,7 @@
     "code": "46",
     "student": "GUARNIZO CASCAVITA SHERLY JOHANA",
     "intensity": "400 hours",
+    "usernameGithub": "",
     "projects": [
       {
         "name": "bit-website",
@@ -693,6 +739,7 @@
     "code": "47",
     "student": "VIRACACHÁ MARTINEZ JONATHAN ARISTIDES",
     "intensity": "400 hours",
+    "usernameGithub": "Jviracacha",
     "projects": [
       {
         "name": "bit-website",
@@ -708,6 +755,7 @@
     "code": "48",
     "student": "CONEJO MUÑOZ YESSICA ALEXANDRA",
     "intensity": "400 hours",
+    "usernameGithub": "Yessica-222",
     "projects": [
       {
         "name": "bit-website",
@@ -723,6 +771,7 @@
     "code": "49",
     "student": "BELTRAN VARGAS FABIAN ANDRES",
     "intensity": "400 hours",
+    "usernameGithub": "fabian1031",
     "projects": [
       {
         "name": "bit-website",
@@ -738,6 +787,7 @@
     "code": "50",
     "student": "PÉREZ BARRERA JADERSON GEOVANNY",
     "intensity": "400 hours",
+    "usernameGithub": "jaderson-barrera",
     "projects": [
       {
         "name": "bit-website",
@@ -753,6 +803,7 @@
     "code": "51",
     "student": "BECERRA BOCANEGRA EVELYN YICETH",
     "intensity": "400 hours",
+    "usernameGithub": "",
     "projects": [
       {
         "name": "bit-website",
@@ -768,6 +819,7 @@
     "code": "52",
     "student": "RAMIREZ ALFONSO JHON ALEJANDRO",
     "intensity": "400 hours",
+    "usernameGithub": "Nojhze4/",
     "projects": [
       {
         "name": "bit-website",
@@ -783,6 +835,7 @@
     "code": "53",
     "student": "SANCHEZ RESTREPO JUAN SEBASTIAN",
     "intensity": "100 hours",
+    "usernameGithub": "",
     "projects": [
       {
         "name": "bit-website",
@@ -798,6 +851,7 @@
     "code": "54",
     "student": "CORREA LOZANO GERMAN CAMILO",
     "intensity": "100 hours",
+    "usernameGithub": "",
     "projects": [
       {
         "name": "bit-website",
