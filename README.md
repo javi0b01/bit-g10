@@ -174,6 +174,35 @@ Aquí quedará un registro de todo el contenido visto en las sesiones.
     - 768px
     - 992px>=
 
+#### Git, GitHub, HTML, CSS, Bootstrap, JavaScript, JSON
+3. Crear una página web
+
+- Tema: Nuestro grupo
+- Fecha de entrega: Martes, 3 de Junio de 2025
+* Entrega:
+  * En canal de Discord (3-entrega-calificable)
+    - Nombre Completo
+    - URL GitHub Pages
+    - URL GitHub Repositorio
+
+* Criterios de aceptación:
+  - Nombre del repositorio: "bit-2"
+  * README.md
+    - Título
+    - Descripción
+    - Autor
+  - Estructura de directorios y archivos (minúsculas, sin acentos, sin espacios)
+  - HTML (contenido original)
+  - CSS (Implementación archivo externo)
+  - Bootstrap (opcional)
+  - JavaScript (Implementación archivo externo, modo estricto)
+  - JSON (archivo fuente)
+  * Responsive
+    - 575px<=
+    - 576px>=
+    - 768px>=
+    - 992px>=
+
 ---
 
 * Revisión
