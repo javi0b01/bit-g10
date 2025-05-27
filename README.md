@@ -196,7 +196,7 @@ Aquí quedará un registro de todo el contenido visto en las sesiones.
   - CSS (Implementación archivo externo)
   - Bootstrap (opcional)
   - JavaScript (Implementación archivo externo, modo estricto)
-  - JSON (archivo fuente)
+  - JSON (archivo fuente, no modificar)
   * Responsive
     - 575px<=
     - 576px>=
