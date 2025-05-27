@@ -13,12 +13,12 @@ fetch('file.json')
     for (let i = 0; i < info.length; i++) {
       cards += `
 <div class="card">
-  <img src="..." class="card-img-top" alt="...">
+  <img class="card-img-top" src="https://github.com/${info[i].usernameGithub}.png" alt="Imagen de perfil de ${info[i].student}">
   <div class="card-body">
   <h5 class="card-title">${info[i].student}</h5>
   </div>
   <div class="card-body">
-  <a href="#" class="card-link">Card link</a>
+  <a href="https://github.com/${info[i].usernameGithub}" target="_blank" rel="noopener noreferrer" class="card-link">GitHub</a>
   </div>
 </div>
       `;
