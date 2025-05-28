@@ -193,10 +193,10 @@ Aquí quedará un registro de todo el contenido visto en las sesiones.
     - Autor
   - Estructura de directorios y archivos (minúsculas, sin acentos, sin espacios)
   - HTML (contenido original)
-  - CSS (Implementación archivo externo)
+  - CSS (opcional)
   - Bootstrap (opcional)
   - JavaScript (Implementación archivo externo, modo estricto)
-  - JSON (archivo fuente, no modificar)
+  - JSON (archivo fuente, no modificar, usar toda la información)
   * Responsive
     - 575px<=
     - 576px>=
