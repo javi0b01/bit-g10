@@ -98,6 +98,24 @@ miVariable = 0x01;
 miVariable = true;
 miVariable = false;
 
+// Truthy
+miVariable = true;
+miVariable = {};
+miVariable = [];
+miVariable = 'false';
+miVariable = '0';
+miVariable = 1;
+miVariable = -1;
+// Falsy
+miVariable = false;
+miVariable = '';
+miVariable = 0;
+miVariable = -0;
+miVariable = 0n;
+miVariable = null;
+miVariable = undefined;
+miVariable = NaN;
+
 /*
 Crear 3 constantes
 - nombre
@@ -329,6 +347,14 @@ miVariable = 1;
     break;
 } */
 
+miVariable = 18;
+resultado = '';
+
+miVariable >= 18
+  ? (resultado = 'mayor de edad')
+  : (resultado = 'no mayor de edad');
+//console.log('resultado:', resultado);
+
 // loops, ciclos, bucles, iteraciones
 miArreglo = [
   'Sunday',
@@ -356,12 +382,33 @@ while (i < miArreglo.length) {
 let guard = true;
 
 while (guard === true) {
-  //console.log('Guard is TRUE');
+  //  console.log('while...Guard is TRUE');
   guard = false;
 }
 
-// Imprimir por consola los números del 1 al 100
-// Guardar los nombres de 10 paises e imprimir uno a uno por consola
+guard = false;
+
+do {
+  //  console.log('do...while...Guard is TRUE');
+} while (guard === true);
+
+i = 10;
+let message = '';
+
+while (i < 5) {
+  message = 'while...The number is ' + i;
+  console.log('message:', message);
+  i++;
+}
+
+i = 10;
+message = '';
+
+do {
+  message = 'do...while...The number is ' + i;
+  //console.log('message:', message);
+  i++;
+} while (i < 5);
 
 /* INTERACCIÓN */
 // Input, Entrada
@@ -373,6 +420,11 @@ let entrada;
 /* console.log(entrada);
 alert('Usted ingresó el nombre: ' + entrada);
 document.writeln('Usted ingresó el nombre: ' + entrada); */
+
+/* ======== DESAFÍOS ======== */
+
+// Imprimir por consola los números del 1 al 100
+// Guardar los nombres de 10 paises e imprimir uno a uno por consola
 
 /* Pedir al usuario que adivine un número entre 1 y 5, dar máximo 2 intentos
 Si el usuario adivina el número mostrar "Ganaste! adivinaste el número secreto"
@@ -411,20 +463,8 @@ Ej Entrada: 10 2
 Ej Salida:
 10 + 2 = 12 ...
 */
-const sumar = (a, b) => a + b;
-const restar = (a, b) => a - b;
-const multiplicar = (a, b) => a * b;
 
-const dividir = (a, b) => {
-  if (b === 0) return 'No se permite cero';
-  else return a / b;
-};
-
-const num1 = parseInt(prompt('Ingrese el primer número:'));
-const num2 = parseInt(prompt('Ingrese el segundo número:'));
-const resultadoFinal = `${num1} + ${num2} = ${sumar(num1, num2)}<br>
-${num1} - ${num2} = ${restar(num1, num2)}<br>
-${num1} x ${num2} = ${multiplicar(num1, num2)}<br>
-${num1} / ${num2} = ${dividir(num1, num2)}`;
-
-document.writeln(resultadoFinal);
+/* Pregunte al usuario si desea continuar
+- Si el usuario ingresa exantamente "NO" mostrar "adiós" y terminar el programa
+- En caso contrario mostrar "Hola 'n' veces"
+*/
