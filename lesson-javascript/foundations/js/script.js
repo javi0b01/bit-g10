@@ -410,6 +410,50 @@ do {
   i++;
 } while (i < 5);
 
+miObjeto = {
+  firstName: 'Pepita',
+  lastName: 'Pérez',
+};
+//console.log(miObjeto);
+
+for (key in miObjeto) {
+  /* console.log('key:', key);
+  console.log('value:', miObjeto[key]); */
+}
+
+miArreglo = [
+  'Sunday',
+  'Monday',
+  'Tuesday',
+  'Wednesday',
+  'Thursday',
+  'Friday',
+  'Saturday',
+];
+
+for (element of miArreglo) {
+  //console.log('element:', element);
+}
+
+miVariable = 'Hello, World!';
+//console.log(miVariable);
+//console.log(miVariable[0]);
+
+for (item of miVariable) {
+  //console.log('item:', item);
+}
+
+// Destructuring
+miObjeto = {
+  firstName: 'Pepita',
+  lastName: 'Pérez',
+};
+
+const { firstName, lastName } = miObjeto;
+
+//console.log(firstName);
+//console.log(lastName);
+
 /* INTERACCIÓN */
 // Input, Entrada
 let entrada;
@@ -467,4 +511,8 @@ Ej Salida:
 /* Pregunte al usuario si desea continuar
 - Si el usuario ingresa exantamente "NO" mostrar "adiós" y terminar el programa
 - En caso contrario mostrar "Hola 'n' veces"
+*/
+
+/* Solicitar del usuario una frase
+- Mostrar cuantas vocales tiene la frase ingresada
 */
