@@ -196,7 +196,8 @@ Aquí quedará un registro de todo el contenido visto en las sesiones.
   - CSS (opcional)
   - Bootstrap (opcional)
   - JavaScript (Implementación archivo externo, modo estricto)
-  - JSON (archivo fuente, no modificar, usar toda la información)
+  * JSON (archivo fuente, no modificar, usar toda la información)
+    - bit-g10/workshops/05/file.json
   * Responsive
     - 575px<=
     - 576px>=
