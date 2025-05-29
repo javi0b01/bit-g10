@@ -7,6 +7,11 @@ Multi-línea
 
 // KEYWORDS o palabras reservadas
 
+import { add, subtract, multiply, divide, works } from './operations.js';
+import getVowels from './vowels.js';
+import decirAdios from './messages.js';
+import { name, age } from './user.js';
+
 /* VARIABLES */
 /*
 nombreVariable1 = 'automática';
@@ -259,6 +264,29 @@ resultado = !false;
 console.log('miVariable2:', miVariable2);
 console.log('resultado:', resultado); */
 
+// Spread operator
+const weeekDays = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'];
+
+const weekendDays = ['Saturday', 'Sunday'];
+
+const allDays = [...weeekDays, ...weekendDays];
+//console.log('allDays:', allDays);
+
+const vehicle1 = {
+  brand: 'Seat',
+  model: 'León',
+  color: 'red',
+};
+
+const vehicle2 = {
+  type: 'car',
+  year: 2011,
+  color: 'blue',
+};
+
+const vehicle = { ...vehicle1, ...vehicle2 };
+//console.log('vehicle:', vehicle);
+
 /* FUNCIONES */
 function printHello() {
   console.log('Hello!');
@@ -416,10 +444,10 @@ miObjeto = {
 };
 //console.log(miObjeto);
 
-for (key in miObjeto) {
-  /* console.log('key:', key);
-  console.log('value:', miObjeto[key]); */
-}
+/* for (key in miObjeto) {
+  console.log('key:', key);
+  console.log('value:', miObjeto[key]);
+} */
 
 miArreglo = [
   'Sunday',
@@ -431,17 +459,17 @@ miArreglo = [
   'Saturday',
 ];
 
-for (element of miArreglo) {
-  //console.log('element:', element);
-}
+/* for (element of miArreglo) {
+  console.log('element:', element);
+} */
 
 miVariable = 'Hello, World!';
 //console.log(miVariable);
 //console.log(miVariable[0]);
 
-for (item of miVariable) {
-  //console.log('item:', item);
-}
+/* for (item of miVariable) {
+  console.log('item:', item);
+} */
 
 // Destructuring
 miObjeto = {
@@ -453,6 +481,21 @@ const { firstName, lastName } = miObjeto;
 
 //console.log(firstName);
 //console.log(lastName);
+
+/* MODULARIZACIÓN */
+/* console.log(works);
+let result = add(10, 2);
+console.log('add...result:', result);
+result = subtract(10, 2);
+console.log('subtract...result:', result);
+result = multiply(10, 2);
+console.log('multiply...result:', result);
+result = divide(10, 2);
+console.log('divide...result:', result);
+console.log(getVowels());
+console.log(decirAdios());
+console.log(name);
+console.log(age); */
 
 /* INTERACCIÓN */
 // Input, Entrada
@@ -515,4 +558,9 @@ Ej Salida:
 
 /* Solicitar del usuario una frase
 - Mostrar cuantas vocales tiene la frase ingresada
+*/
+
+/* Solicitar del usuario usuario y contraseña
+- Guardar datos de entrada en un objeto
+- Imprima por consola los datos ingresados usando el spread operator
 */
