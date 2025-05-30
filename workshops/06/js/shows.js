@@ -1,9 +1,17 @@
+'use strict';
 export function showPokemons(pokemons) {
-  let list = '<ol>';
-  for (const pokemon of pokemons) list += `<li>${pokemon.name}</li>`;
-  list += '</ol>';
+  let html = '<section>';
+  for (const pokemon of pokemons) {
+    html += `
+<figure>
+  <img src="${pokemon.imgPokemon}" alt="Image of ${pokemon.namePokemon}">
+  <figcaption>${pokemon.namePokemon}</figcaption>
+</figure>
+  `;
+  }
+  html += '</section>';
   const $main = document.querySelector('main');
-  $main.innerHTML = list;
+  $main.innerHTML = html;
 }
 
 export function showError(msg) {
