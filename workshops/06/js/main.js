@@ -85,11 +85,9 @@ function setPagination(pagination) {
 
 function watchPokemons() {
   const $pokemons = document.querySelectorAll('.pokemon');
-  console.log('$pokemons:', $pokemons);
   $pokemons.forEach((p) => {
     p.addEventListener('click', () => {
       const pokemonSelected = pokemons.filter((i) => i.id == p.id);
-      console.log('pokemonSelected:', pokemonSelected);
       showPokemon(pokemonSelected[0]);
     });
   });

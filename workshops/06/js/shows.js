@@ -1,8 +1,6 @@
 'use strict';
 export function showPokemon(pokemon) {
-  console.log(pokemon);
   showSpinner(true);
-  console.log(pokemon);
   const {
     id,
     name,
