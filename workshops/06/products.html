@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="./css/main.css" />
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
-    <title>Home</title>
+    <title>Products</title>
   </head>
   <body>
     <noscript>JavaScript is required.</noscript>
@@ -22,8 +22,22 @@
       <a href="./contact.html">Contact</a>
     </nav>
     <main class="container">
-      <h1>Home</h1>
+      <h1>Products</h1>
+      <section class="pokemons"></section>
+      <section class="pagination">
+        <i id="left" class="bi bi-arrow-left-circle-fill"></i>
+        <i id="right" class="bi bi-arrow-right-circle-fill"></i>
+      </section>
     </main>
+    <aside id="spinner" class="d-none">
+      <div class="loader"></div>
+    </aside>
+    <div id="detail" class="detail">
+      <div class="detail-content">
+        <i id="close" class="bi bi-x-circle-fill"></i>
+        <div id="card"></div>
+      </div>
+    </div>
     <footer class="container-fluid">
       <p><small>&copy; 2025</small></p>
     </footer>
