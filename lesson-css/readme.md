@@ -1,4 +1,10 @@
 # CSS (Cascading Style Sheets)
+
+- What is it
+- What does it do
+- Why to use it
+- More info
+
 * Styles
   - Rule
   - Selector
