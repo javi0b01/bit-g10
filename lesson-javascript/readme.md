@@ -1,4 +1,10 @@
 # JavaScript
+
+- What is it
+- What does it do
+- Why to use it
+- More info
+
 - JavaScript
 - Consola del navegador
 - Imprimir mensajes en la consola del navegador
