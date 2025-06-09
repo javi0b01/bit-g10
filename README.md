@@ -47,6 +47,6 @@ Aquí queda un registro de todo el contenido visto en clase.
 
 ## Proyectos calificables
 
-[1 Proyecto Calificable](./proyecto-calificable-1.md)
-[2 Proyecto Calificable](./proyecto-calificable-2.md)
-[3 Proyecto Calificable](./proyecto-calificable-3.md)
+- [1 Proyecto Calificable](./proyecto-calificable-1.md)
+- [2 Proyecto Calificable](./proyecto-calificable-2.md)
+- [3 Proyecto Calificable](./proyecto-calificable-3.md)
