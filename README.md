@@ -30,6 +30,12 @@ Aquí queda un registro de todo el contenido visto en clase.
   - Wireframe
   - Prototype
 
+- Solución de problemas
+* Algoritmo
+  - Partes
+  - Diagrama de flujo
+  - Pseudo código
+
 * Pattern
   - DRY (Don't Repeat Yourself)
 
