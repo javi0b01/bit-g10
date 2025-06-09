@@ -1,5 +1,9 @@
-# bit-g10
-## MARKDOWN
+# Markdown
+
+Sintaxis
+
+---
+
 Titles
 # Heading 1
 ## Heading 2
@@ -51,11 +55,3 @@ Hello
     - Node
     - Express
     - Mongo
-
----
-README file
-
-* Información acerca de un proyecto
-  - Título
-  - Descripción
-  - Autor (link)
