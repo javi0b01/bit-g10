@@ -1,4 +1,10 @@
 # HTML (Hyper Text Markup Language)
+
+- What is it
+- What does it do
+- Why to use it
+- More info
+
 * Hyper text
   - Links
 * Markup
