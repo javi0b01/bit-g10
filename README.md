@@ -36,6 +36,10 @@ Aquí queda un registro de todo el contenido visto en clase.
 * Metodologías de desarrollo
   - Cascada
 
+* Node
+  - npm
+  - Project
+
 - [Git & GitHub](./lesson-git/readme.md)
 - [Markdown](./lesson-markdown/readme.md)
 - [HTML](./lesson-html/readme.md)
