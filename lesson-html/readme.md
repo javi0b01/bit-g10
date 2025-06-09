@@ -1,5 +1,4 @@
-# bit-g10
-## HTML (Hyper Text Markup Language)
+# HTML (Hyper Text Markup Language)
 * Hyper text
   - Links
 * Markup
@@ -32,3 +31,13 @@
     - Substructure
     - Content
   - Miscellaneous
+
+* Etiquetas
+  - Genéricas
+  - Semánticas
+  - Estructura básica
+
+- Accesibilidad
+
+- Formularios
+- Tablas
