@@ -4,3 +4,18 @@
 - What does it do
 - Why to use it
 - More info
+
+* Tipado
+  - Implicito
+  - Explicito
+  - Inferencia
+  - Tipos primitivos
+  - Tipos especiales
+- Arreglos
+- Tuplas
+- Objetos
+* Funciones
+  - Retorno
+  - Parámetros
+  - Parámatros opcionales
+  - Parámetros con valor por defecto
