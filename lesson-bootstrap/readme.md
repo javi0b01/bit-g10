@@ -6,6 +6,7 @@
 - More info
 
 - Implementación
+- Plantilla básica
 * Layout
   - Contenedores
   - Sistema de rejilla
