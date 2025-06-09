@@ -6,8 +6,8 @@
 - More info
 
 * Tipado
-  - Implicito
-  - Explicito
+  - Implícito
+  - Explícito
   - Inferencia
   - Tipos primitivos
   - Tipos especiales
