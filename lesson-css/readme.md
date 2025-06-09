@@ -1,5 +1,4 @@
-# bit-g10
-## CSS (Cascading Style Sheets)
+# CSS (Cascading Style Sheets)
 * Styles
   - Rule
   - Selector
@@ -56,3 +55,19 @@
 - Fonts
 - Grid
 - Variables
+
+* Estilos
+  - Regla
+  - Selector
+  - Propiedad
+  - Valor
+  - Declaración
+
+- Flexbox
+- Variables
+- Fuentes
+- Iconos
+- Grid
+- Responsivo
+- Media queries
+- Mobile first
