@@ -1,9 +1,19 @@
-# bit-g10
-## GIT
+# Git & GitHub
+
 - Sistema de control de versiones
-- Git
-- GitHub
-- Repositorio
-- README file
-- Markdown básico
-- Comandos básicos
+- Alojamiento de repositorios
+* Git
+  - Instalación
+  - Comandos básicos
+* GitHub
+  - Creación de cuenta
+* Git y GitHub trabajando juntos
+  - Repositorio
+  - README file
+    - Información acerca de un proyecto
+    - Título
+    - Descripción
+    - Autor (link)
+  - Markdown
+  - Configuración
+  - Pruebas de funcionamiento
