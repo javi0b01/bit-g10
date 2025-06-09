@@ -1,5 +1,10 @@
 # Git & GitHub
 
+- What is it
+- What does it do
+- Why to use it
+- More info
+
 - Sistema de control de versiones
 - Alojamiento de repositorios
 * Git
