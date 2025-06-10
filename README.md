@@ -54,6 +54,7 @@ Aquí queda un registro de todo el contenido visto en clase.
 - [JavaScript](./lesson-javascript/readme.md)
 - [JSON](./lesson-json/readme.md)
 - [TypeScript](./lesson-typescript/readme.md)
+- [Angular](./lesson-angular/readme.md)
 
 ## Proyectos calificables
 
