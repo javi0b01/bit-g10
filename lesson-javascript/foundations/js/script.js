@@ -507,3 +507,42 @@ let entrada;
 /* console.log(entrada);
 alert('Usted ingresó el nombre: ' + entrada);
 document.writeln('Usted ingresó el nombre: ' + entrada); */
+
+/* CLASES */
+// Clase
+class MyClass {
+  prop = 'abc';
+
+  method() {
+    console.log('xyz');
+  }
+}
+// console.log('MyClass:', MyClass);
+
+// Instancia | Objeto
+const myInstance = new MyClass();
+// console.log('myInstance:', myInstance);
+// console.log(myInstance.prop);
+// myInstance.method();
+
+// Declaration
+class DeclarationClass {}
+
+// Expression - anonymous
+const AnonymousExpressionClass = class {};
+
+// Expression
+const ExpressionClass = class NameClass {};
+
+// Method constructor
+class Rectangle {
+  constructor(heigth, width) {
+    this.heigth = heigth;
+    this.width = width;
+  }
+}
+
+const rectangle1 = new Rectangle(10, 30);
+//console.log('rectangle1:', rectangle1.width);
+const rectangle2 = new Rectangle(9, 27);
+//console.log('rectangle2:', rectangle2.width);

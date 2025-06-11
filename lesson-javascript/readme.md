@@ -51,3 +51,15 @@
   - Salida
 
 * DOM (Document Object Model)
+
+- Prototipos
+
+* Clases
+  - Clase
+  - Instancia
+  - Declaración
+  - Expresión
+  - Expresión anónima
+  - Método constructor
+
+- this keyword
