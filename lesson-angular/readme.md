@@ -19,11 +19,25 @@
 - Template
 - Reset template
 
-* Component
-  - HTML
-  - CSS
-  - JavaScript (TypeScript)
-
 * Tools
   - Angular Language Service
   - Angular DevTools
+
+- SPA (Single Page Application)
+
+* Component
+  - HTML
+  - CSS
+  - TypeScript
+  - Create component
+  - Main
+  - Parent
+  - Child
+
+* Router
+  - Routes
+  - Pages
+  - Root route
+  - Redirect
+  - Page not found
+  - Shared
