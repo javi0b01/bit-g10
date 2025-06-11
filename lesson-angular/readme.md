@@ -8,7 +8,12 @@
 * Node
   - npm
 
-- CLI
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+
+- CLI (Command Line Interface)
 - Create a new angular project
 - Initial structure
 - Template
