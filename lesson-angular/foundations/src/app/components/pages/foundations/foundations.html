@@ -1,3 +1,29 @@
 <main>
-  <p>foundations works!</p>
+  <h1>Foundations</h1>
+  <section>
+    <h2>Interpolation</h2>
+    <p>Greet: {{greet}}</p>
+    <p>{{framework}} is my favorite framework</p>
+    <p>{{num1}} + {{num2}} = {{num1 + num2}}</p>
+  </section>
+  <section>
+    <h2>Control Flow</h2>
+    <div>
+      <h3>Conditionals</h3>
+      @if(isLoggedIn){
+      <p><strong>Welcome!</strong></p>
+      } @if(isLoggedIn){
+      <p>You are logged</p>
+      }@else {
+      <p>You aren't logged</p>
+      }
+    </div>
+    <div>
+      <h3>Loops</h3>
+      @for(dev of devs; track dev.id){
+      <p>{{dev.name}}</p>
+      }
+      <p>devs[1]: {{devs[1].name}}</p>
+    </div>
+  </section>
 </main>

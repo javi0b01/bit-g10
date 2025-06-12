@@ -28,11 +28,19 @@
 * Component
   - HTML
   - CSS
-  - TypeScript
+  * TypeScript
+    - Class
+    - Attribute
+    - Property
+    - Type
+    - Implicit
+    - Explicit
+    - Inference
   - Create component
   - Main
   - Parent
   - Child
+  - Hierarchy
 
 * Router
   - Routes
@@ -41,3 +49,16 @@
   - Redirect
   - Page not found
   - Shared
+
+* Styles
+  - Global
+  - Component
+
+* Directives
+  - Routerlink
+  - @if
+  - @else
+  - @for
+
+- Updating the component class
+- Interpolation
