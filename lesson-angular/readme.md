@@ -61,4 +61,5 @@
   - @for
 
 - Updating the component class
+- Properties
 - Interpolation

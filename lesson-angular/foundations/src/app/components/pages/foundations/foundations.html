@@ -1,11 +1,12 @@
 <main>
   <h1>Foundations</h1>
   <section>
-    <h2>Interpolation</h2>
+    <h2>Interpolation Properties</h2>
     <p>Greet: {{greet}}</p>
     <p>{{framework}} is my favorite framework</p>
     <p>{{num1}} + {{num2}} = {{num1 + num2}}</p>
   </section>
+  <hr />
   <section>
     <h2>Control Flow</h2>
     <div>
@@ -26,4 +27,29 @@
       <p>devs[1]: {{devs[1].name}}</p>
     </div>
   </section>
+  <hr />
+  <section>
+    <h2>Property Binding</h2>
+    <h3>Attributes</h3>
+    <button type="button" [disabled]="disableEnter">Enter</button>
+    <figure><img [src]="imageUrl" alt="BIT logo" /></figure>
+  </section>
+  <hr />
+  <section>
+    <h2>Event handling</h2>
+    <button type="button" (click)="handleClick()">Click me</button>
+    <div
+      class="box {{ cssClassName }}"
+      (mouseover)="handleMouseover()"
+      (mouseleave)="handleMouseleave()"
+    >
+      {{ cssClassName }}
+    </div>
+  </section>
+  <hr />
+  <section>
+    <h2>Pass data</h2>
+    <app-parent />
+  </section>
+  <hr />
 </main>

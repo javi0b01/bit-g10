@@ -1,8 +1,9 @@
 import { Component } from '@angular/core';
+import { Parent } from '../../parent/parent';
 
 @Component({
   selector: 'app-foundations',
-  imports: [],
+  imports: [Parent],
   templateUrl: './foundations.html',
   styleUrl: './foundations.css',
 })
@@ -30,8 +31,19 @@ export class Foundations {
       name: 'John',
     },
   ];
-
-  arr = [1, 2, 3, 4];
-
-  myMethod() {}
+  // Property binding
+  disableEnter: boolean = true;
+  imageUrl =
+    'https://bitinstitute.online/images/Logo-BIT-institute-cursos-40lg.png';
+  // Event handling
+  handleClick() {
+    console.log('handle click works!');
+  }
+  cssClassName: string = 'initial-color';
+  handleMouseover() {
+    this.cssClassName = 'mouseover-color';
+  }
+  handleMouseleave() {
+    this.cssClassName = 'mouseleave-color';
+  }
 }

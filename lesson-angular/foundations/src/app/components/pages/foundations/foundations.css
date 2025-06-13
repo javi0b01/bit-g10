@@ -1,0 +1,30 @@
+figure {
+  background-color: black;
+  padding: 1rem;
+  margin: 0;
+}
+
+.box {
+  width: 25rem;
+  height: 15rem;
+  border: 0.1rem solid blue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 3rem;
+}
+
+.initial-color {
+  background-color: yellow;
+  color: black;
+}
+
+.mouseover-color {
+  background-color: red;
+  color: white;
+}
+
+.mouseleave-color {
+  background-color: aqua;
+  color: blue;
+}

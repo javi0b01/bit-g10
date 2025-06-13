@@ -1,0 +1,11 @@
+div {
+  border-width: 0.1rem;
+  border-style: solid;
+}
+.parent-content {
+  border-color: blue;
+}
+
+.child-content {
+  border-color: red;
+}

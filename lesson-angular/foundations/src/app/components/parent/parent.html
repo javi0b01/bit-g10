@@ -1,0 +1,10 @@
+<div class="parent-content">
+  <p>parent works!</p>
+  <p>Elements amount: {{arr.length}}</p>
+</div>
+<div class="child-content">
+  <app-child
+    favoriteColor="MAGENTA"
+    (addElementEvent)="handleAddElementEvent($event)"
+  />
+</div>
