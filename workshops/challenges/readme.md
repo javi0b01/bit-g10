@@ -30,3 +30,11 @@ Cada uno de los desafíos debe ser implementado con funciones
 9. Solicitar del usuario usuario y contraseña
 - Guardar datos de entrada en un objeto
 - Imprima por consola los datos ingresados usando el spread operator
+
+---
+
+- Crear un proyecto de Angular
+- Reiniciar la plantilla
+- Crear 3 componentes (Páginas: inicio, desafíos, página no encontrada)
+- Configurar la rutas
+- Crear una navegación
