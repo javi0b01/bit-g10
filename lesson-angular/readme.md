@@ -63,3 +63,9 @@
 - Updating the component class
 - Properties
 - Interpolation
+- Property binding
+- Event handling
+- Pass data
+- Parent
+- Child
+- Methods
