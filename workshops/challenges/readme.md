@@ -38,3 +38,31 @@ Cada uno de los desafíos debe ser implementado con funciones
 - Crear 3 componentes (Páginas: inicio, desafíos, página no encontrada)
 - Configurar la rutas
 - Crear una navegación
+
+* Desafíos (componente)
+- Crear un componente padre
+- Crear un componente hijo
+- Implementar el componente "padre" dentro de "desafíos"
+- Implementar el componente "hijo" dentro de "padre"
+
+* Hijo (componente)
+  - Mostrar un número cero
+  - Mostrar dos botones, uno para incrementar y otro para decrementar
+  - El número debe ser leído de un valor entregado por el "padre"
+  - Cada botón debe ejecutar su propio método
+
+* Padre (componente)
+  - Pasar un valor númerico al componente "hijo", debe ser leído de una propiedad
+
+* Hijo (componente)
+  - Cada vez que se ejecute un método (incremento, decremento) emitir evento al "padre"
+
+* Padre (componente)
+  - Escuchar el evento del "hijo" y recibir el valor emitido
+  - Calcular y mostrar el doble del valor emitido
+
+* UI
+  - Cambiar el color de fondo según el valor del contador
+  - Cuando el valor del contador sea cero mostrar fondo neutro
+  - Cuando el valor del contador sea negativo mostrar fondo en tono rojo
+  - Cuando el valor del contador sea positivo mostrar fondo en tono verde

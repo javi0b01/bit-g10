@@ -1,11 +1,10 @@
 import { Component } from '@angular/core';
+import { CounterParent } from '../../counter-parent/counter-parent';
 
 @Component({
   selector: 'app-challenges',
-  imports: [],
+  imports: [CounterParent],
   templateUrl: './challenges.html',
-  styleUrl: './challenges.css'
+  styleUrl: './challenges.css',
 })
-export class Challenges {
-
-}
+export class Challenges {}
