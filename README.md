@@ -46,6 +46,12 @@ Aquí queda un registro de todo el contenido visto en clase.
   - npm
   - Project
 
+* CRUD
+  - Create
+  - Read
+  - Update
+  - Delete
+
 - [Git & GitHub](./lesson-git/readme.md)
 - [Markdown](./lesson-markdown/readme.md)
 - [HTML](./lesson-html/readme.md)
