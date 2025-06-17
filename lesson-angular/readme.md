@@ -69,3 +69,9 @@
 - Parent
 - Child
 - Methods
+
+- Data
+- Event
+- State
+- State Management
+- Reactivity
