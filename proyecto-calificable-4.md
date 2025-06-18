@@ -28,6 +28,6 @@ Crear una SPA
     - 576px>=
     - 768px>=
     - 992px>=
-  - 3 rutas (ruta1, ruta2, 404)
+  - 3 páginas mínimo (pag1, pag2, pag404)
   - Crear una navegación (ruta1, ruta2)
   - Consumir un API de tercero
