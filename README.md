@@ -47,10 +47,10 @@ Aquí queda un registro de todo el contenido visto en clase.
   - Project
 
 * CRUD
-  - Create
-  - Read
-  - Update
-  - Delete
+  - Create (one)
+  - Read (all, one)
+  - Update (one)
+  - Delete (one)
 
 - [Git & GitHub](./lesson-git/readme.md)
 - [Markdown](./lesson-markdown/readme.md)
