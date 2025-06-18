@@ -70,8 +70,19 @@
 - Child
 - Methods
 
-- Data
-- Event
-- State
-- State Management
-- Reactivity
+* State Management
+  - State
+  - Data
+  - Event
+  - Reactivity
+
+* Binding
+  - single
+  - two-way
+
+* Forms
+  - template-driven
+  - reactive
+
+- Pipes
+- Interfaces

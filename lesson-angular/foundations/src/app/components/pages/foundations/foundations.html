@@ -52,4 +52,50 @@
     <app-parent />
   </section>
   <hr />
+  <section>
+    <h2>Forms</h2>
+    <div>
+      <h3>template-driven</h3>
+      <form>
+        <label for="name">¿What is your name?</label>
+        <input id="name" type="text" name="name" [(ngModel)]="name" />
+        <button type="button" (click)="handleName()">Send name</button>
+      </form>
+      <p>Your name is: {{name}}</p>
+    </div>
+    <div>
+      <h3>reactive</h3>
+      <form [formGroup]="loginForm" (ngSubmit)="handleSubmit()">
+        <label for="username">Username</label>
+        <input id="username" type="text" formControlName="username" />
+        <br />
+        <label for="password">Password</label>
+        <input id="password" type="password" formControlName="password" />
+        <br />
+        <button type="submit">Login</button>
+      </form>
+    </div>
+  </section>
+  <hr />
+  <section>
+    <h2>Pipes</h2>
+    <p>Original text: {{text}}</p>
+    <p>Uppercase pipe: {{text | uppercase}}</p>
+    <p>Lowercase pipe: {{text | lowercase}}</p>
+    <p>Titlecase pipe: {{text | titlecase}}</p>
+    <p>Original num: {{num}}</p>
+    <p>num with pipe: {{num | number:"3.1-2"}}</p>
+    <p>Original date: {{date}}</p>
+    <p>date with pipe: {{date | date: "medium"}}</p>
+    <p>Original price: {{price}}</p>
+    <p>price with pipe: {{price | currency}}</p>
+    <p>price with pipe: {{price | currency: "EUR"}}</p>
+  </section>
+  <hr />
+  <section>
+    <h2>Interfaces</h2>
+    <p>First name: {{user.firstName}}</p>
+    <p>Lastname: {{user.lastname}}</p>
+  </section>
+  <hr />
 </main>

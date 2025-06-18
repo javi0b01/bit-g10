@@ -1,9 +1,34 @@
 import { Component } from '@angular/core';
+import {
+  FormsModule,
+  ReactiveFormsModule,
+  FormGroup,
+  FormControl,
+} from '@angular/forms';
+import {
+  DecimalPipe,
+  LowerCasePipe,
+  UpperCasePipe,
+  DatePipe,
+  CurrencyPipe,
+  TitleCasePipe,
+} from '@angular/common';
 import { Parent } from '../../parent/parent';
+import { IUser } from '../../../interfaces/example';
 
 @Component({
   selector: 'app-foundations',
-  imports: [Parent],
+  imports: [
+    Parent,
+    FormsModule,
+    ReactiveFormsModule,
+    UpperCasePipe,
+    LowerCasePipe,
+    TitleCasePipe,
+    DecimalPipe,
+    DatePipe,
+    CurrencyPipe,
+  ],
   templateUrl: './foundations.html',
   styleUrl: './foundations.css',
 })
@@ -46,4 +71,27 @@ export class Foundations {
   handleMouseleave() {
     this.cssClassName = 'mouseleave-color';
   }
+  // Form, template-driven
+  name: string = '';
+  handleName() {
+    console.log(this.name);
+  }
+  // Form, reactive
+  loginForm = new FormGroup({
+    username: new FormControl(''),
+    password: new FormControl(''),
+  });
+  handleSubmit() {
+    console.log(this.loginForm.value);
+  }
+  // Pipes
+  text: string = 'heLLo, tEaM!';
+  num: number = 999.1234;
+  date = new Date(2025, 5, 17);
+  price = 4500.96;
+  // Interfaces
+  user: IUser = {
+    firstName: 'Anne',
+    lastname: 'Doe',
+  };
 }
