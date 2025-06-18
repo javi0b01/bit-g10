@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, inject } from '@angular/core';
 import {
   FormsModule,
   ReactiveFormsModule,
@@ -13,8 +13,9 @@ import {
   CurrencyPipe,
   TitleCasePipe,
 } from '@angular/common';
-import { Parent } from '../../parent/parent';
 import { IUser } from '../../../interfaces/example';
+import { MotorcyclesService } from '../../../services/motorcycles';
+import { Parent } from '../../parent/parent';
 
 @Component({
   selector: 'app-foundations',
@@ -94,4 +95,6 @@ export class Foundations {
     firstName: 'Anne',
     lastname: 'Doe',
   };
+  // Services - inject
+  motorcyclesService = inject(MotorcyclesService);
 }
