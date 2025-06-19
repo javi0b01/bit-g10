@@ -1,0 +1,7 @@
+<button type="button" (click)="handleClick()">Get data</button>
+@if(info){
+<p>Fact: {{info.fact}}</p>
+<p>Length: {{info.length}}</p>
+}@else {
+<p>Please, press the button to get a fact.</p>
+}
