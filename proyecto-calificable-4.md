@@ -12,6 +12,7 @@ Crear una SPA
 - Tema: Libre
 - Fecha de entrega: Martes, 24 de Junio de 2025
 * Entrega:
+  - Presentar en máximo 3 minutos
   * En canal de Discord (4-entrega-calificable)
     - Nombre Completo
     - URL GitHub Repositorio
