@@ -104,4 +104,54 @@
     <p>{{ motorcyclesService.getMotorcycle(0) }}</p>
   </section>
   <hr />
+  <section>
+    <h2>Deferrable view</h2>
+    <p>
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corporis cum
+      fugiat deserunt nobis reiciendis, recusandae voluptates eos asperiores
+      eveniet officia eaque! Accusantium quis veniam totam similique. Est unde
+      ab libero!
+    </p>
+    <p>
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo optio sed,
+      vitae est neque id aliquam ex veritatis voluptatibus nisi! Laudantium
+      iusto obcaecati voluptatem dignissimos minima sed assumenda, excepturi
+      deserunt.
+    </p>
+    @defer (on viewport) {
+    <div>
+      <ul>
+        <li>Lorem ipsum dolor sit amet.</li>
+        <li>Lorem ipsum dolor sit amet.</li>
+        <li>Lorem ipsum dolor sit amet.</li>
+        <li>Lorem ipsum dolor sit amet.</li>
+        <li>Lorem ipsum dolor sit amet.</li>
+      </ul>
+      <ol>
+        <li>Lorem ipsum dolor sit amet.</li>
+        <li>Lorem ipsum dolor sit amet.</li>
+        <li>Lorem ipsum dolor sit amet.</li>
+        <li>Lorem ipsum dolor sit amet.</li>
+        <li>Lorem ipsum dolor sit amet.</li>
+      </ol>
+    </div>
+    }@placeholder (minimum 3s) {
+    <p>Future content</p>
+    }@loading (minimum 6s) {
+    <p>Loading content...</p>
+    }
+  </section>
+  <hr />
+  <section>
+    <h2>Optimizing images</h2>
+    <div>
+      <p>src</p>
+      <img src="lion-l.jpg" alt="lion photo" />
+    </div>
+    <div>
+      <p>NgSrc</p>
+      <img ngSrc="lion-l.jpg" width="1600" height="1200" alt="lion photo" />
+    </div>
+  </section>
+  <hr />
 </main>

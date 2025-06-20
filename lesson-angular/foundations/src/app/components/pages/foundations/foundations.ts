@@ -12,6 +12,7 @@ import {
   DatePipe,
   CurrencyPipe,
   TitleCasePipe,
+  NgOptimizedImage,
 } from '@angular/common';
 import { IUser } from '../../../interfaces/example';
 import { MotorcyclesService } from '../../../services/motorcycles';
@@ -29,6 +30,7 @@ import { Parent } from '../../parent/parent';
     DecimalPipe,
     DatePipe,
     CurrencyPipe,
+    NgOptimizedImage,
   ],
   templateUrl: './foundations.html',
   styleUrl: './foundations.css',

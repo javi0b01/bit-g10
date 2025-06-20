@@ -13,6 +13,8 @@
 - JavaScript
 - TypeScript
 
+- Angular way
+
 - CLI (Command Line Interface)
 - Create a new angular project
 - Initial structure
@@ -87,3 +89,8 @@
 - Pipes
 - Interfaces
 - Services
+
+- Deferrable views
+- Optimizing images
+
+- Bootstrap
