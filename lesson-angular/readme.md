@@ -61,6 +61,9 @@
   - @if
   - @else
   - @for
+  - @defer
+  - @placeholder
+  - @loading
 
 - Updating the component class
 - Properties
@@ -92,5 +95,8 @@
 
 - Deferrable views
 - Optimizing images
+
+- Lifecycle
+- Observables
 
 - Bootstrap
