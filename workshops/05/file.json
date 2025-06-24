@@ -1,65 +1,5 @@
 [
   {
-    "code": "1",
-    "student": "MOLANO ROJAS JUAN PABLO",
-    "intensity": "100 hours",
-    "usernameGithub": "",
-    "projects": [
-      {
-        "name": "bit-website",
-        "score": [4]
-      },
-      {
-        "name": "bit-1",
-        "score": [0]
-      },
-      {
-        "name": "bit-2",
-        "score": [0]
-      }
-    ]
-  },
-  {
-    "code": "2",
-    "student": "CONTRERAS RIBON VALENTINA ",
-    "intensity": "400 hours",
-    "usernameGithub": "ValenContreras13",
-    "projects": [
-      {
-        "name": "bit-website",
-        "score": [4]
-      },
-      {
-        "name": "bit-1",
-        "score": [9.5]
-      },
-      {
-        "name": "bit-2",
-        "score": [1, 1, 1, 1, 0.5, 1, 1, 1, 0.5, 0.5]
-      }
-    ]
-  },
-  {
-    "code": "3",
-    "student": "CHARRY DIAZ DIANA VANESSA",
-    "intensity": "400 hours",
-    "usernameGithub": "DIACHA1301",
-    "projects": [
-      {
-        "name": "bit-website",
-        "score": [4]
-      },
-      {
-        "name": "bit-1",
-        "score": [1, 1, 0, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5]
-      },
-      {
-        "name": "bit-2",
-        "score": [1, 1, 0.5, 1, 1, 1, 1, 1, 0.5, 1]
-      }
-    ]
-  },
-  {
     "code": "4",
     "student": "PEREA VERA ANDRES FELIPE",
     "intensity": "400 hours",
@@ -76,6 +16,10 @@
       {
         "name": "bit-2",
         "score": [1, 1, 1, 0.5, 0.5, 0.5, 1, 1, 1, 0.5]
+      },
+      {
+        "name": "bit-3",
+        "score": []
       }
     ]
   },
@@ -96,6 +40,10 @@
       {
         "name": "bit-2",
         "score": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+      },
+      {
+        "name": "bit-3",
+        "score": []
       }
     ]
   },
@@ -116,6 +64,10 @@
       {
         "name": "bit-2",
         "score": [0]
+      },
+      {
+        "name": "bit-3",
+        "score": []
       }
     ]
   },
@@ -136,6 +88,10 @@
       {
         "name": "bit-2",
         "score": [1, 1, 0.5, 1, 1, 1, 1, 0.5, 1, 1]
+      },
+      {
+        "name": "bit-3",
+        "score": []
       }
     ]
   },
@@ -156,6 +112,10 @@
       {
         "name": "bit-2",
         "score": [0]
+      },
+      {
+        "name": "bit-3",
+        "score": []
       }
     ]
   },
@@ -176,66 +136,10 @@
       {
         "name": "bit-2",
         "score": [1, 1, 0.5, 0.5, 0.5, 1, 1, 1, 0.5, 1]
-      }
-    ]
-  },
-  {
-    "code": "10",
-    "student": "CARREÑO TORRES KARENN DAYANA",
-    "intensity": "400 hours",
-    "usernameGithub": "karenntorres",
-    "projects": [
-      {
-        "name": "bit-website",
-        "score": [3.5]
       },
       {
-        "name": "bit-1",
-        "score": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
-      },
-      {
-        "name": "bit-2",
-        "score": [0, 1, 0.5, 0.5, 1, 1, 1, 1, 0.5, 0.5]
-      }
-    ]
-  },
-  {
-    "code": "11",
-    "student": "WEEB JUAN SEBASTIAN",
-    "intensity": "400 hours",
-    "usernameGithub": "sebastianwebb5",
-    "projects": [
-      {
-        "name": "bit-website",
-        "score": [3.5]
-      },
-      {
-        "name": "bit-1",
-        "score": [0]
-      },
-      {
-        "name": "bit-2",
-        "score": [0]
-      }
-    ]
-  },
-  {
-    "code": "12",
-    "student": "CRUZ CORTES JOAN CAMILO",
-    "intensity": "400 hours",
-    "usernameGithub": "joancamilocruz",
-    "projects": [
-      {
-        "name": "bit-website",
-        "score": [3.5]
-      },
-      {
-        "name": "bit-1",
-        "score": [1, 1, 1, 1, 1, 1, 1, 1, 0.5, 1]
-      },
-      {
-        "name": "bit-2",
-        "score": [1, 1, 1, 0.5, 0.5, 1, 1, 1, 0.5, 0.5]
+        "name": "bit-3",
+        "score": []
       }
     ]
   },
@@ -256,6 +160,10 @@
       {
         "name": "bit-2",
         "score": [1, 1, 1, 0.5, 1, 1, 1, 1, 0.5, 1]
+      },
+      {
+        "name": "bit-3",
+        "score": []
       }
     ]
   },
@@ -276,6 +184,10 @@
       {
         "name": "bit-2",
         "score": [1, 1, 1, 0.5, 1, 1, 1, 1, 0.5, 1]
+      },
+      {
+        "name": "bit-3",
+        "score": []
       }
     ]
   },
@@ -296,46 +208,10 @@
       {
         "name": "bit-2",
         "score": [0]
-      }
-    ]
-  },
-  {
-    "code": "16",
-    "student": "RESTREPO MENDEZ SAMUEL",
-    "intensity": "400 hours",
-    "usernameGithub": "Samuel-Restrepo223",
-    "projects": [
-      {
-        "name": "bit-website",
-        "score": [4]
       },
       {
-        "name": "bit-1",
-        "score": [1, 1, 1, 1, 1, 1, 0.5, 1, 1, 1]
-      },
-      {
-        "name": "bit-2",
-        "score": [1, 1, 1, 1, 0.5, 1, 1, 1, 0.5, 1]
-      }
-    ]
-  },
-  {
-    "code": "17",
-    "student": "BASTIDAS MENDEZ ALBERTO ANDRES",
-    "intensity": "100 hours",
-    "usernameGithub": "",
-    "projects": [
-      {
-        "name": "bit-website",
-        "score": [3.5]
-      },
-      {
-        "name": "bit-1",
-        "score": [1, 1, 1, 0.5, 1, 1, 1, 0, 0, 0.5]
-      },
-      {
-        "name": "bit-2",
-        "score": [0]
+        "name": "bit-3",
+        "score": []
       }
     ]
   },
@@ -356,6 +232,10 @@
       {
         "name": "bit-2",
         "score": [1, 1, 1, 1, 0.5, 1, 1, 1, 1, 1]
+      },
+      {
+        "name": "bit-3",
+        "score": []
       }
     ]
   },
@@ -376,26 +256,10 @@
       {
         "name": "bit-2",
         "score": [1, 1, 0.5, 0.5, 1, 1, 1, 1, 0, 0.5]
-      }
-    ]
-  },
-  {
-    "code": "20",
-    "student": "OSPINA RETAVIZCA SANTIAGO ",
-    "intensity": "100 hours",
-    "usernameGithub": "",
-    "projects": [
-      {
-        "name": "bit-website",
-        "score": [3.5]
       },
       {
-        "name": "bit-1",
-        "score": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
-      },
-      {
-        "name": "bit-2",
-        "score": [0]
+        "name": "bit-3",
+        "score": []
       }
     ]
   },
@@ -416,26 +280,10 @@
       {
         "name": "bit-2",
         "score": [1, 1, 1, 0.5, 1, 1, 1, 1, 0.5, 0.5]
-      }
-    ]
-  },
-  {
-    "code": "22",
-    "student": "BERMÚDEZ BUITRAGO GERMÁN ALIRIO",
-    "intensity": "400 hours",
-    "usernameGithub": "Shermangnr",
-    "projects": [
-      {
-        "name": "bit-website",
-        "score": [5]
       },
       {
-        "name": "bit-1",
-        "score": [4.5]
-      },
-      {
-        "name": "bit-2",
-        "score": [1, 1, 1, 1, 1, 1, 1, 1, 0.5, 1]
+        "name": "bit-3",
+        "score": []
       }
     ]
   },
@@ -456,46 +304,10 @@
       {
         "name": "bit-2",
         "score": [1, 1, 1, 1, 1, 1, 1, 1, 0.5, 1]
-      }
-    ]
-  },
-  {
-    "code": "24",
-    "student": "ROMERO VALDERRAMA LINA YISELA",
-    "intensity": "100 hours",
-    "usernameGithub": "",
-    "projects": [
-      {
-        "name": "bit-website",
-        "score": [3.5]
       },
       {
-        "name": "bit-1",
-        "score": [1, 1, 1, 0.5, 1, 1, 1, 0, 0.5, 1]
-      },
-      {
-        "name": "bit-2",
-        "score": [0]
-      }
-    ]
-  },
-  {
-    "code": "25",
-    "student": "WELLS RESTREPO NICHOLAS ",
-    "intensity": "400 hours",
-    "usernameGithub": "NickWellsR",
-    "projects": [
-      {
-        "name": "bit-website",
-        "score": [4]
-      },
-      {
-        "name": "bit-1",
-        "score": [10]
-      },
-      {
-        "name": "bit-2",
-        "score": [1, 1, 1, 0.5, 0.5, 1, 1, 1, 1, 1]
+        "name": "bit-3",
+        "score": []
       }
     ]
   },
@@ -516,206 +328,10 @@
       {
         "name": "bit-2",
         "score": [1, 1, 0.5, 0.5, 0.5, 1, 1, 0.5, 1, 0.5]
-      }
-    ]
-  },
-  {
-    "code": "27",
-    "student": "TAMAYO ARCILA TOBIAS ",
-    "intensity": "400 hours",
-    "usernameGithub": "Tobisein1",
-    "projects": [
-      {
-        "name": "bit-website",
-        "score": [3.5]
       },
       {
-        "name": "bit-1",
-        "score": [1, 1, 1, 1, 1, 0.5, 1, 1, 1, 1]
-      },
-      {
-        "name": "bit-2",
-        "score": [1, 1, 1, 1, 0.5, 0.5, 1, 1, 1, 1]
-      }
-    ]
-  },
-  {
-    "code": "28",
-    "student": "RODRIGUEZ CASALLAS KRISTEL LEANNY",
-    "intensity": "400 hours",
-    "usernameGithub": "",
-    "projects": [
-      {
-        "name": "bit-website",
-        "score": [0]
-      },
-      {
-        "name": "bit-1",
-        "score": [0]
-      },
-      {
-        "name": "bit-2",
-        "score": [0]
-      }
-    ]
-  },
-  {
-    "code": "29",
-    "student": "CASTRO PEREZ GABRIELA ",
-    "intensity": "100 hours",
-    "usernameGithub": "",
-    "projects": [
-      {
-        "name": "bit-website",
-        "score": [4.5]
-      },
-      {
-        "name": "bit-1",
-        "score": [1, 1, 1, 1, 1, 0.5, 1, 1, 1, 1]
-      },
-      {
-        "name": "bit-2",
-        "score": [0]
-      }
-    ]
-  },
-  {
-    "code": "30",
-    "student": "ZAMUDIO MONCADA JUAN DAVID",
-    "intensity": "100 hours",
-    "usernameGithub": "",
-    "projects": [
-      {
-        "name": "bit-website",
-        "score": [4]
-      },
-      {
-        "name": "bit-1",
-        "score": [9.5]
-      },
-      {
-        "name": "bit-2",
-        "score": [0]
-      }
-    ]
-  },
-  {
-    "code": "31",
-    "student": "ANDRADE GUTIERREZ JOSE IGNACIO",
-    "intensity": "400 hours",
-    "usernameGithub": "ignacioandrademec",
-    "projects": [
-      {
-        "name": "bit-website",
-        "score": [3.5]
-      },
-      {
-        "name": "bit-1",
-        "score": [9.5]
-      },
-      {
-        "name": "bit-2",
-        "score": [1, 1, 1, 1, 0.5, 1, 1, 1, 0.5, 1]
-      }
-    ]
-  },
-  {
-    "code": "32",
-    "student": "ACERO SIERRA CRISTIAN ARLEY",
-    "intensity": "400 hours",
-    "usernameGithub": "Cristiaaaaan2099",
-    "projects": [
-      {
-        "name": "bit-website",
-        "score": [3.5]
-      },
-      {
-        "name": "bit-1",
-        "score": [1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5]
-      },
-      {
-        "name": "bit-2",
-        "score": [1, 1, 0, 0.5, 0.5, 1, 1, 1, 0.5, 1]
-      }
-    ]
-  },
-  {
-    "code": "33",
-    "student": "CARLUCCI LOAIZA VICTOR ARMANDO",
-    "intensity": "400 hours",
-    "usernameGithub": "victorcarlucci",
-    "projects": [
-      {
-        "name": "bit-website",
-        "score": [3.5]
-      },
-      {
-        "name": "bit-1",
-        "score": [9.5]
-      },
-      {
-        "name": "bit-2",
-        "score": [0]
-      }
-    ]
-  },
-  {
-    "code": "34",
-    "student": "MENDOZA BELTRAN HORACIO ANTONIO",
-    "intensity": "400 hours",
-    "usernameGithub": "",
-    "projects": [
-      {
-        "name": "bit-website",
-        "score": [4.5]
-      },
-      {
-        "name": "bit-1",
-        "score": [10]
-      },
-      {
-        "name": "bit-2",
-        "score": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
-      }
-    ]
-  },
-  {
-    "code": "35",
-    "student": "LOPEZ BASTIDAS GISSELA MARIA",
-    "intensity": "400 hours",
-    "usernameGithub": "",
-    "projects": [
-      {
-        "name": "bit-website",
-        "score": [3.5]
-      },
-      {
-        "name": "bit-1",
-        "score": [0]
-      },
-      {
-        "name": "bit-2",
-        "score": [1, 1, 1, 1, 0.5, 0.5, 1, 1, 0.5, 0.5]
-      }
-    ]
-  },
-  {
-    "code": "36",
-    "student": "LOZANO POSADA BAIRON URIEL",
-    "intensity": "100 hours",
-    "usernameGithub": "",
-    "projects": [
-      {
-        "name": "bit-website",
-        "score": [0]
-      },
-      {
-        "name": "bit-1",
-        "score": [0]
-      },
-      {
-        "name": "bit-2",
-        "score": [0]
+        "name": "bit-3",
+        "score": []
       }
     ]
   },
@@ -736,26 +352,10 @@
       {
         "name": "bit-2",
         "score": [1, 1, 0, 1, 0.5, 1, 1, 1, 0, 0.5]
-      }
-    ]
-  },
-  {
-    "code": "38",
-    "student": "REYES MUÑOZ JOSE DAVID",
-    "intensity": "400 hours",
-    "usernameGithub": "",
-    "projects": [
-      {
-        "name": "bit-website",
-        "score": [0]
       },
       {
-        "name": "bit-1",
-        "score": [0]
-      },
-      {
-        "name": "bit-2",
-        "score": [0]
+        "name": "bit-3",
+        "score": []
       }
     ]
   },
@@ -776,26 +376,10 @@
       {
         "name": "bit-2",
         "score": [1, 1, 1, 1, 1, 1, 1, 1, 0.5, 0.5]
-      }
-    ]
-  },
-  {
-    "code": "40",
-    "student": "RAMIREZ PIÑEROS BRAYAN ORLEY",
-    "intensity": "400 hours",
-    "usernameGithub": "BrayanOr",
-    "projects": [
-      {
-        "name": "bit-website",
-        "score": [3.5]
       },
       {
-        "name": "bit-1",
-        "score": [1, 0.5, 0.5, 0.5, 1, 1, 1, 0.5, 0, 1]
-      },
-      {
-        "name": "bit-2",
-        "score": [1, 0.5, 1, 1, 1, 1, 1, 1, 0.5, 0.5]
+        "name": "bit-3",
+        "score": []
       }
     ]
   },
@@ -816,6 +400,10 @@
       {
         "name": "bit-2",
         "score": [1, 1, 0.5, 1, 1, 1, 1, 1, 1, 1]
+      },
+      {
+        "name": "bit-3",
+        "score": []
       }
     ]
   },
@@ -836,26 +424,10 @@
       {
         "name": "bit-2",
         "score": [0]
-      }
-    ]
-  },
-  {
-    "code": "43",
-    "student": "MAIGUEL MONTOYA NICOLAS ",
-    "intensity": "400 hours",
-    "usernameGithub": "nmaiguel31",
-    "projects": [
-      {
-        "name": "bit-website",
-        "score": [4]
       },
       {
-        "name": "bit-1",
-        "score": [1, 1, 1, 1, 1, 0.5, 1, 1, 1, 1]
-      },
-      {
-        "name": "bit-2",
-        "score": [1, 1, 1, 1, 1, 1, 1, 1, 0.5, 1]
+        "name": "bit-3",
+        "score": []
       }
     ]
   },
@@ -876,26 +448,10 @@
       {
         "name": "bit-2",
         "score": [1, 1, 0.5, 1, 1, 0.5, 1, 1, 0.5, 0.5]
-      }
-    ]
-  },
-  {
-    "code": "45",
-    "student": "BERNAL GORDILLO LUISA FERNANDA",
-    "intensity": "400 hours",
-    "usernameGithub": "lufernanda-05",
-    "projects": [
-      {
-        "name": "bit-website",
-        "score": [3.5]
       },
       {
-        "name": "bit-1",
-        "score": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
-      },
-      {
-        "name": "bit-2",
-        "score": [1, 1, 1, 0.5, 0.5, 1, 1, 1, 0.5, 0.5]
+        "name": "bit-3",
+        "score": []
       }
     ]
   },
@@ -916,6 +472,10 @@
       {
         "name": "bit-2",
         "score": [0]
+      },
+      {
+        "name": "bit-3",
+        "score": []
       }
     ]
   },
@@ -936,6 +496,10 @@
       {
         "name": "bit-2",
         "score": [0]
+      },
+      {
+        "name": "bit-3",
+        "score": []
       }
     ]
   },
@@ -956,66 +520,10 @@
       {
         "name": "bit-2",
         "score": [1, 1, 1, 1, 0.5, 0.5, 1, 1, 0.5, 1]
-      }
-    ]
-  },
-  {
-    "code": "49",
-    "student": "BELTRAN VARGAS FABIAN ANDRES",
-    "intensity": "400 hours",
-    "usernameGithub": "fabian1031",
-    "projects": [
-      {
-        "name": "bit-website",
-        "score": [3.5]
       },
       {
-        "name": "bit-1",
-        "score": [1, 1, 1, 0.5, 1, 1, 1, 1, 1, 1]
-      },
-      {
-        "name": "bit-2",
-        "score": [1, 1, 1, 0, 1, 1, 1, 1, 1, 1]
-      }
-    ]
-  },
-  {
-    "code": "50",
-    "student": "PÉREZ BARRERA JADERSON GEOVANNY",
-    "intensity": "400 hours",
-    "usernameGithub": "jaderson-barrera",
-    "projects": [
-      {
-        "name": "bit-website",
-        "score": [3.5]
-      },
-      {
-        "name": "bit-1",
-        "score": [1, 1, 1, 1, 1, 1, 1, 0.5, 0.5, 1]
-      },
-      {
-        "name": "bit-2",
-        "score": [1, 1, 0.5, 0.5, 0.5, 0.5, 1, 1, 1, 1]
-      }
-    ]
-  },
-  {
-    "code": "51",
-    "student": "BECERRA BOCANEGRA EVELYN YICETH",
-    "intensity": "400 hours",
-    "usernameGithub": "",
-    "projects": [
-      {
-        "name": "bit-website",
-        "score": [0]
-      },
-      {
-        "name": "bit-1",
-        "score": [0]
-      },
-      {
-        "name": "bit-2",
-        "score": [0]
+        "name": "bit-3",
+        "score": []
       }
     ]
   },
@@ -1036,46 +544,10 @@
       {
         "name": "bit-2",
         "score": [1, 1, 0.5, 1, 0.5, 1, 1, 1, 0.5, 0.5]
-      }
-    ]
-  },
-  {
-    "code": "53",
-    "student": "SANCHEZ RESTREPO JUAN SEBASTIAN",
-    "intensity": "100 hours",
-    "usernameGithub": "",
-    "projects": [
-      {
-        "name": "bit-website",
-        "score": [0]
       },
       {
-        "name": "bit-1",
-        "score": [0]
-      },
-      {
-        "name": "bit-2",
-        "score": [0]
-      }
-    ]
-  },
-  {
-    "code": "54",
-    "student": "CORREA LOZANO GERMAN CAMILO",
-    "intensity": "100 hours",
-    "usernameGithub": "",
-    "projects": [
-      {
-        "name": "bit-website",
-        "score": [0]
-      },
-      {
-        "name": "bit-1",
-        "score": [0]
-      },
-      {
-        "name": "bit-2",
-        "score": [0]
+        "name": "bit-3",
+        "score": []
       }
     ]
   }
