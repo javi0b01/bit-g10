@@ -18,12 +18,12 @@ Crear una SPA
 
 * Criterios de aceptación:
   - Fecha de entrega: Martes, 24 de Junio de 2025
-  - Estilos
   - Consumir un API de tercero
-  - Página no encontrada
   - Responsive
   - Crear una navegación (ruta1, ruta2)
   - 3 páginas mínimo (pag1, pag2, pag404)
   - Nombre del repositorio: "bit-3"
   - README.md
   - Estructura de directorios y archivos
+  - Estilos
+  - Consola
