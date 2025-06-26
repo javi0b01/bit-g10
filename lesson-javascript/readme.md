@@ -64,4 +64,7 @@
 
 - this keyword
 
-- Regular Expression
+* Regular Expression
+  - Syntax
+  - Methods
+  - Patterns

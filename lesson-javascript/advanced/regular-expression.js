@@ -40,6 +40,14 @@ regexp = /p/;
 result = regexp.test('pepita');
 result = regexp.test('fulanito');
 
+// | : or
+regexp = /a|b/;
+result = regexp.test('abc');
+result = regexp.test('acd');
+result = regexp.test('bcd');
+result = regexp.test('xyz');
+console.log(result);
+
 // . : any character betwwen a - b
 regexp = /a.b/;
 result = regexp.test('abc');
@@ -63,4 +71,3 @@ result = regexp.test('Hello, 123');
 result = regexp.test('Hello-World');
 result = regexp.test('_');
 result = regexp.test('@#$');
-console.log(result);
