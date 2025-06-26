@@ -63,3 +63,5 @@
   - Método constructor
 
 - this keyword
+
+- Regular Expression
