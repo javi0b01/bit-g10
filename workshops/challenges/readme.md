@@ -66,3 +66,7 @@ Cada uno de los desafíos debe ser implementado con funciones
   - Cuando el valor del contador sea cero mostrar fondo neutro
   - Cuando el valor del contador sea negativo mostrar fondo en tono rojo
   - Cuando el valor del contador sea positivo mostrar fondo en tono verde
+
+---
+
+Verificar si un mensaje contiene palabras prohibidas (usando expresión regular).
