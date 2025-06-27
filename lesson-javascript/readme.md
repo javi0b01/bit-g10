@@ -27,6 +27,8 @@
   - Comparación
   - Lógicos
   - Spread operator
+  - typeof
+  - instanceof
 - Conversión de tipos
 - Truthy
 - Falsy
@@ -64,7 +66,21 @@
 
 - this keyword
 
+- Objects Build-in
+
 * Regular Expression
   - Syntax
   - Methods
   - Patterns
+  - Modifiers
+
+* String
+  - Properties
+  - Methods
+
+* Number
+  - Properties
+  - Methods
+
+- Dates
+- Math
