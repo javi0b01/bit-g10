@@ -79,3 +79,5 @@ Aplicación web
 
 1. Explicar los detalles del problema que se relacionarán con su solución
 2. Plantear una aplicación web que dará solucón a ese problema
+
+CRUD
