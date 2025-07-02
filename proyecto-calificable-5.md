@@ -10,3 +10,4 @@
 Crear un RESTful API | REST API
 
 - Crear un nuevo repositorio llamado "bit-backend"
+- CRUD
