@@ -10,4 +10,6 @@
 Crear un RESTful API | REST API
 
 - Crear un nuevo repositorio llamado "bit-backend"
-- CRUD
+- CRUD completo
+- Pruebas con Postman
+- Fecha de entrega: Lunes, 7 de de Julio de 2025
