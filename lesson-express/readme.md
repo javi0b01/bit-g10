@@ -14,6 +14,8 @@
 
 * dependencies
   - express
+  - dotenv
+  - mongoose
 * dev dependencies
   - nodemon
   - morgan
@@ -24,7 +26,6 @@
 - callbacks
 - handler
 
-- routing
 - routes
 - url building
 
@@ -38,7 +39,19 @@
   - volatility
   - persistence
 
+* Architecture
+  - Directories
+  - Files
+
 - HTTP Verbs or methods
 - HTTP response status codes
 - RESTful API or REST API (Representational State Transfer)
 - API
+
+- environment variables
+* database
+  - connection
+- routing
+- controllers
+* models
+  - schemas
