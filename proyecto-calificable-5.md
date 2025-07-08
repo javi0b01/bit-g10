@@ -9,9 +9,9 @@
 
 Crear un RESTful API | REST API
 
+- Fecha de entrega: Lunes, 7 de de Julio de 2025
 - Crear un nuevo repositorio llamado "bit-backend"
 - CRUD completo
-- Fecha de entrega: Lunes, 7 de de Julio de 2025
 * En canal de Discord (5-entrega-calificable)
     - Nombre Completo
     - URL GitHub Repositorio
