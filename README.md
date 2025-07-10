@@ -69,15 +69,4 @@ Aquí queda un registro de todo el contenido visto en clase.
 - [3 Proyecto Calificable](./proyecto-calificable-3.md)
 - [4 Proyecto Calificable](./proyecto-calificable-4.md)
 - [5 Proyecto Calificable](./proyecto-calificable-5.md)
-
----
-
-Aplicación web
-
-- Pensar en un problema
-- Pensar en una solución
-
-1. Explicar los detalles del problema que se relacionarán con su solución
-2. Plantear una aplicación web que dará solución a ese problema
-
-CRUD completo
+- [6 Proyecto Calificable](./proyecto-calificable-6.md)
