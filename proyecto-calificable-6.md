@@ -1,5 +1,15 @@
 # 6 Proyecto Calificable
 
+Aplicación web (SPA)
+
+- Pensar en un problema
+- Pensar en una solución
+
+1. Explicar los detalles del problema que se relacionarán con su solución
+2. Plantear una aplicación web que dará solución a ese problema
+
+---
+
 * Revisión
   - Cumple (1)
   - Cumple parcialmente (0.5)
