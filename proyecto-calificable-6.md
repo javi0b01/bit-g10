@@ -19,7 +19,7 @@ Aplicación web (SPA)
 
 Aplicación web completa (DB + Back + Front)
 
-- Fecha de entrega: Lunes, 21 de de Julio de 2025
+- Fecha de entrega: Jueves, 17 de de Julio de 2025
 - Crear un nuevo repositorio llamado "bit-frontend"
 * En canal de Discord (6-entrega-calificable)
     - Nombre Completo
