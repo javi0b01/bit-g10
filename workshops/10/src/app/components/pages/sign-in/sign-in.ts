@@ -29,6 +29,8 @@ export class SignIn {
         .loginUser(this.loginForm.value)
         .subscribe((res: any) => {
           if (res.allOK) {
+            console.log('res:', res);
+            localStorage.setItem('token', res.data);
             this.router.navigateByUrl('/dashboard');
           } else {
             // TODO: notify
