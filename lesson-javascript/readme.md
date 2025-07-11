@@ -84,3 +84,5 @@
 
 - Dates
 - Math
+
+- storage API

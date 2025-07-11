@@ -100,3 +100,9 @@
 - Observables
 
 - Bootstrap
+
+---
+Pending
+
+- protect route
+- notify

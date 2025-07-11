@@ -55,3 +55,21 @@
 - controllers
 * models
   - schemas
+
+- forms
+- validators
+
+- mongoose
+- save data (database)
+- CRUD (database)
+- API's
+- endpoint
+- payloads
+- hash values (password)
+- login
+- token
+
+---
+Pending
+
+- save file (upload file)
