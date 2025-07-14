@@ -6,6 +6,7 @@ import {
   FormControl,
   Validators,
 } from '@angular/forms';
+import { ToastrService } from 'ngx-toastr';
 import { SigninService } from '../../../services/signin';
 
 @Component({
@@ -16,6 +17,7 @@ import { SigninService } from '../../../services/signin';
 })
 export class SignIn {
   router = inject(Router);
+  toastrService = inject(ToastrService);
   signinService = inject(SigninService);
 
   loginForm = new FormGroup({
@@ -25,21 +27,48 @@ export class SignIn {
 
   handleSubmit() {
     if (this.loginForm.valid) {
-      this.signinService
-        .loginUser(this.loginForm.value)
-        .subscribe((res: any) => {
-          if (res.allOK) {
-            console.log('res:', res);
-            localStorage.setItem('token', res.data);
+      this.signinService.loginUser(this.loginForm.value).subscribe(
+        (data: any) => {
+          console.log('data:', data);
+          if (data.allOK) {
+            this.toastrService.success(data.message);
+            localStorage.setItem('token', data.data);
             this.router.navigateByUrl('/dashboard');
-          } else {
-            // TODO: notify
-            console.log('An error occurred');
           }
-        });
+        },
+        (error: any) => {
+          //console.log('* error:', error);
+          this.toastrService.error(
+            error.statusText || 'An error occured',
+            'Warning',
+            { positionClass: 'toast-top-center', timeOut: 1000 }
+          );
+          /*
+          iconClasses = {
+            error: 'toast-error',
+            info: 'toast-info',
+            success: 'toast-success',
+            warning: 'toast-warning',
+          };
+          positionClass: {
+            toast-top-right
+            toast-bottom-right
+            toast-bottom-left
+            toast-top-left
+            toast-top-full-width
+            toast-bottom-full-width
+            toast-top-center
+            toast-bottom-center
+          }
+          this.toastrService.success('Message', 'Title', {
+            positionClass: 'toast-top-center',
+            timeOut: 3000,
+          });
+          */
+        }
+      );
     } else {
-      // TODO: notify
-      console.log('Invalid form');
+      this.toastrService.warning('Invalid form');
     }
   }
 }
