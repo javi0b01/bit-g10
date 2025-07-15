@@ -6,6 +6,7 @@ import {
   FormControl,
   Validators,
 } from '@angular/forms';
+import { ToastrService } from 'ngx-toastr';
 import { SigninService } from '../../../services/signin';
 
 @Component({
@@ -16,6 +17,7 @@ import { SigninService } from '../../../services/signin';
 })
 export class SignIn {
   router = inject(Router);
+  toastrService = inject(ToastrService);
   signinService = inject(SigninService);
 
   loginForm = new FormGroup({
@@ -25,21 +27,20 @@ export class SignIn {
 
   handleSubmit() {
     if (this.loginForm.valid) {
-      this.signinService
-        .loginUser(this.loginForm.value)
-        .subscribe((res: any) => {
-          if (res.allOK) {
-            console.log('res:', res);
-            localStorage.setItem('token', res.data);
+      this.signinService.loginUser(this.loginForm.value).subscribe(
+        (data: any) => {
+          if (data.allOK) {
+            this.toastrService.success(data.message);
+            localStorage.setItem('token', data.data);
             this.router.navigateByUrl('/dashboard');
-          } else {
-            // TODO: notify
-            console.log('An error occurred');
           }
-        });
+        },
+        (error: any) => {
+          this.toastrService.error(error.statusText, 'An error occurred');
+        }
+      );
     } else {
-      // TODO: notify
-      console.log('Invalid form');
+      this.toastrService.warning('Invalid form, all fields are mandatory.');
     }
   }
 }
