@@ -100,9 +100,9 @@
 - Observables
 
 - Bootstrap
+- notify
 
 ---
 Pending
-
 - protect route
-- notify
+- conditional menu
