@@ -1,5 +1,6 @@
-import { Component } from '@angular/core';
+import { Component, inject } from '@angular/core';
 import { RouterLink, RouterLinkActive } from '@angular/router';
+import { SigninService } from '../../../services/signin';
 
 @Component({
   selector: 'app-navigation',
@@ -7,4 +8,6 @@ import { RouterLink, RouterLinkActive } from '@angular/router';
   templateUrl: './navigation.html',
   styleUrl: './navigation.css',
 })
-export class Navigation {}
+export class Navigation {
+  signinService = inject(SigninService);
+}
