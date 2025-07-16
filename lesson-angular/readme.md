@@ -92,6 +92,7 @@
 - Pipes
 - Interfaces
 - Services
+- Guards
 
 - Deferrable views
 - Optimizing images
@@ -101,8 +102,5 @@
 
 - Bootstrap
 - notify
-
----
-Pending
 - protect route
 - conditional menu
