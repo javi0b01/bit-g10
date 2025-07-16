@@ -68,8 +68,6 @@
 - hash values (password)
 - login
 - token
-
----
-Pending
-
-- save file (upload file)
+* save file (upload file)
+  - server
+  - database
