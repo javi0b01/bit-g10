@@ -5,6 +5,7 @@ import cors from 'cors';
 import morgan from 'morgan';
 import usersRouter from './routers/users.js';
 import studentsRouter from './routers/students.js';
+import uploadRouter from './routers/upload.js';
 
 const server = express();
 const host = process.env.HOST;
@@ -17,6 +18,7 @@ server.use(express.json());
 server.use(morgan('dev'));
 server.use('/users', usersRouter);
 server.use('/students', studentsRouter);
+server.use('/upload', uploadRouter);
 
 server.get('/', (request, response) => {
   response.status(204).send();
