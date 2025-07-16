@@ -2,12 +2,21 @@
   <a routerLinkActive="active" ariaCurrentWhenActive="page" routerLink="/home"
     >home</a
   >
+  @if (signinService.isUserLogged()) {
   <a
     routerLinkActive="active"
     ariaCurrentWhenActive="page"
     routerLink="/dashboard"
     >dashboard</a
   >
+  <button
+    type="button"
+    class="btn btn-link"
+    (click)="signinService.logoutUser()"
+  >
+    Logout
+  </button>
+  }@else {
   <a
     routerLinkActive="active"
     ariaCurrentWhenActive="page"
@@ -20,4 +29,5 @@
     routerLink="/sign-in"
     >sign in</a
   >
+  }
 </nav>
