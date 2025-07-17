@@ -173,11 +173,15 @@
       },
       {
         "name": "bit-3",
-        "score": []
+        "score": [
+          0
+        ]
       },
       {
         "name": "bit-backend",
-        "score": []
+        "score": [
+          0
+        ]
       }
     ]
   },
@@ -276,11 +280,15 @@
       },
       {
         "name": "bit-3",
-        "score": []
+        "score": [
+          0
+        ]
       },
       {
         "name": "bit-backend",
-        "score": []
+        "score": [
+          0
+        ]
       }
     ]
   },
@@ -393,11 +401,15 @@
       },
       {
         "name": "bit-3",
-        "score": []
+        "score": [
+          0
+        ]
       },
       {
         "name": "bit-backend",
-        "score": []
+        "score": [
+          3.5
+        ]
       }
     ]
   },
@@ -483,11 +495,15 @@
       },
       {
         "name": "bit-3",
-        "score": []
+        "score": [
+          0
+        ]
       },
       {
         "name": "bit-backend",
-        "score": []
+        "score": [
+          0
+        ]
       }
     ]
   },
@@ -535,7 +551,9 @@
       },
       {
         "name": "bit-3",
-        "score": []
+        "score": [
+          3.5
+        ]
       },
       {
         "name": "bit-backend",
@@ -922,7 +940,9 @@
       },
       {
         "name": "bit-backend",
-        "score": []
+        "score": [
+          0
+        ]
       }
     ]
   },
@@ -1021,11 +1041,15 @@
       },
       {
         "name": "bit-3",
-        "score": []
+        "score": [
+          0
+        ]
       },
       {
         "name": "bit-backend",
-        "score": []
+        "score": [
+          0
+        ]
       }
     ]
   },
@@ -1175,11 +1199,15 @@
       },
       {
         "name": "bit-3",
-        "score": []
+        "score": [
+          0
+        ]
       },
       {
         "name": "bit-backend",
-        "score": []
+        "score": [
+          0
+        ]
       }
     ]
   },
